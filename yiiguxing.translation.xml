@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="239" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Low notification importance: Shows in the shade, and potentially in the status bar (see shouldHideSilentStatusBarIcons()), but is not audibly intrusive" />
+      <item value="A notification with no importance: does not show in the shade." />
       <item value="监控" />
       <item value="检测" />
       <item value="Do not place Android context classes in static fields; this is a memory leak" />
@@ -55,13 +57,11 @@
       <item value="A regular session type containing instances of OutputConfiguration running at regular non high speed FPS ranges and optionally InputConfiguration for reprocessable sessions. See Also: CameraDevice.createCaptureSession, CameraDevice.createReprocessableCaptureSession" />
       <item value="period" />
       <item value="modify" />
-      <item value="script" />
-      <item value="scri" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1692" />
-        <entry key="ENGLISH" value="1692" />
+        <entry key="CHINESE" value="1693" />
+        <entry key="ENGLISH" value="1694" />
         <entry key="DUTCH" value="1" />
         <entry key="MARATHI" value="1" />
         <entry key="GREEK" value="1" />
