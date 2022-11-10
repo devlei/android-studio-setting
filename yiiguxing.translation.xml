@@ -7,6 +7,7 @@
     <option name="newTranslationDialogY" value="239" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the absolute path to the application specific cache directory on the filesystem." />
       <item value="frequency" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="Set whether this is an ongoing notification. Ongoing notifications cannot be dismissed by the user, so your application or service must take care of canceling them. They are typically used to indicate a background task that the user is actively engaged with (e.g., playing music) or is pending in some way and therefore occupying the device (e.g., a file download, sync operation, active network connection). See Also: Notification.FLAG_ONGOING_EVENT" />
@@ -56,7 +57,6 @@
       <item value="频率" />
       <item value="频次" />
       <item value="pb ci" />
-      <item value="pb" />
     </histories>
     <option name="languageScores">
       <map>
