@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="239" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Set whether this is an ongoing notification. Ongoing notifications cannot be dismissed by the user, so your application or service must take care of canceling them. They are typically used to indicate a background task that the user is actively engaged with (e.g., playing music) or is pending in some way and therefore occupying the device (e.g., a file download, sync operation, active network connection). See Also: Notification.FLAG_ONGOING_EVENT" />
+      <item value="set Priority" />
       <item value="Low notification importance: Shows in the shade, and potentially in the status bar (see shouldHideSilentStatusBarIcons()), but is not audibly intrusive" />
       <item value="A notification with no importance: does not show in the shade." />
       <item value="监控" />
@@ -55,13 +57,11 @@
       <item value="pb" />
       <item value="p" />
       <item value="A regular session type containing instances of OutputConfiguration running at regular non high speed FPS ranges and optionally InputConfiguration for reprocessable sessions. See Also: CameraDevice.createCaptureSession, CameraDevice.createReprocessableCaptureSession" />
-      <item value="period" />
-      <item value="modify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1693" />
-        <entry key="ENGLISH" value="1694" />
+        <entry key="CHINESE" value="1695" />
+        <entry key="ENGLISH" value="1696" />
         <entry key="DUTCH" value="1" />
         <entry key="MARATHI" value="1" />
         <entry key="GREEK" value="1" />
