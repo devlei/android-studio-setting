@@ -1,0 +1,76 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="323" />
+    <option name="newTranslationDialogWidth" value="626" />
+    <option name="newTranslationDialogX" value="886" />
+    <option name="newTranslationDialogY" value="239" />
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="Still waiting for package manifests to be fetched remotely." />
+      <item value="emit Capture" />
+      <item value="recursive" />
+      <item value="跌倒" />
+      <item value="摔倒" />
+      <item value="shua" />
+      <item value="帅呆" />
+      <item value="componentname" />
+      <item value="capture Session" />
+      <item value="Video Record" />
+      <item value="Media Recorder" />
+      <item value="Camera 5 is not available. Ignore physical camera status change" />
+      <item value="Type mismatch: inferred type is Boolean? but Boolean was expected" />
+      <item value="compat" />
+      <item value="component" />
+      <item value="componet" />
+      <item value="compo" />
+      <item value="co" />
+      <item value="record" />
+      <item value="recorder" />
+      <item value="Create a request suitable for still image capture while recording video. Specifically, this means maximizing image quality without disrupting the ongoing recording. These requests would commonly be used with the CameraCaptureSession.capture method while a request based on TEMPLATE_RECORD is is in use with CameraCaptureSession.setRepeatingRequest. This template is guaranteed to be supported on all camera devices except legacy devices (CameraCharacteristics.INFO_SUPPORTED_HARDWARE_LEVEL == LEGACY) and DEPTH_OUTPUT devices that are not BACKWARD_COMPATIBLE. See Also: createCaptureRequest" />
+      <item value="Create a request suitable for video recording. Specifically, this means that a stable frame rate is used, and post-processing is set for recording quality. These requests would commonly be used with the CameraCaptureSession.setRepeatingRequest method. This template is guaranteed to be supported on all camera devices except DEPTH_OUTPUT devices that are not BACKWARD_COMPATIBLE. See Also: createCaptureRequest" />
+      <item value="Create a request suitable for a camera preview window. Specifically, this means that high frame rate is given priority over the highest-quality post-processing. These requests would normally be used with the CameraCaptureSession.setRepeatingRequest method. This template is guaranteed to be supported on all camera devices. See Also: createCaptureRequest" />
+      <item value="Create a request suitable for still image capture. Specifically, this means prioritizing image quality over frame rate. These requests would commonly be used with the CameraCaptureSession.capture method. This template is guaranteed to be supported on all camera devices except DEPTH_OUTPUT devices that are not BACKWARD_COMPATIBLE. See Also: createCaptureRequest" />
+      <item value="Extractor Muxer Activity" />
+      <item value="capture" />
+      <item value="grep" />
+      <item value="facing" />
+      <item value="lens_facing" />
+      <item value="lens" />
+      <item value="le" />
+      <item value="预览" />
+      <item value="usage" />
+      <item value="CLEARTEXT communication to deliveryman.lwjwlkj.com not permitted by network security policy" />
+      <item value="REWRITE CACHE CONTROL INTERCEPTOR" />
+      <item value="unexpected" />
+      <item value="unexpected end of stream on null" />
+      <item value="频率" />
+      <item value="频次" />
+      <item value="pb ci" />
+      <item value="pb" />
+      <item value="p" />
+      <item value="A regular session type containing instances of OutputConfiguration running at regular non high speed FPS ranges and optionally InputConfiguration for reprocessable sessions. See Also: CameraDevice.createCaptureSession, CameraDevice.createReprocessableCaptureSession" />
+      <item value="period" />
+      <item value="modify" />
+      <item value="script" />
+      <item value="scri" />
+      <item value="is Transitive" />
+      <item value="AAR PREFIX" />
+      <item value="Non Null" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1676" />
+        <entry key="ENGLISH" value="1677" />
+        <entry key="DUTCH" value="1" />
+        <entry key="MARATHI" value="1" />
+        <entry key="GREEK" value="1" />
+        <entry key="ITALIAN" value="1" />
+        <entry key="HINDI" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1667979917735" />
+  </component>
+</application>
