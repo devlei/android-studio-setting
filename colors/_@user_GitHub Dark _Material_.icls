@@ -4,7 +4,7 @@
     <property name="created">2022-04-25T17:34:10</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.23</property>
-    <property name="modified">2022-05-25T11:31:03</property>
+    <property name="modified">2022-11-14T15:10:57</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -60,6 +60,8 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f97583" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f97583" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="85e89d" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="8aff80" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="dbedff" />
     <option name="FILESTATUS_MERGED" value="b392f0" />
     <option name="FILESTATUS_MODIFIED" value="79b8ff" />
