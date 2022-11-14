@@ -12,15 +12,12 @@
       <mapping ext="kotlin" type="PLAIN_TEXT" />
       <mapping ext="klib" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="klib" approved="true" type="ARCHIVE" />
       <removed_mapping ext="preferences_pb" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="preferences_pb" approved="true" type="XML" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
-      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
