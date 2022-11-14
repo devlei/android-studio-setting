@@ -4,8 +4,9 @@
     <property name="created">2022-04-25T17:34:10</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.1.1.23</property>
-    <property name="modified">2022-05-25T11:30:33</property>
+    <property name="modified">2022-11-14T14:48:30</property>
     <property name="originalScheme">Dracula (Material)</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -57,6 +58,9 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f780bf" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f780bf" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f780bf" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="8aff80" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="f89580" />
     <option name="FILESTATUS_MERGED" value="9580ff" />
     <option name="FILESTATUS_MODIFIED" value="80ffea" />
