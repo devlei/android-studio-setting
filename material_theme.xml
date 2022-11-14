@@ -1,6 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="accentColor" value="ff79c5" />
     <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-52929d13:18474ccc5e3:-8000" />
