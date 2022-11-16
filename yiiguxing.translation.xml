@@ -7,6 +7,11 @@
     <option name="newTranslationDialogY" value="239" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="登出" />
+      <item value="logout" />
+      <item value="on Logout" />
+      <item value="注销" />
+      <item value="void onlogout();" />
       <item value="create Identifier" />
       <item value="Listener唯一标识" />
       <item value="listener Unique" />
@@ -52,16 +57,11 @@
       <item value="lens" />
       <item value="le" />
       <item value="预览" />
-      <item value="usage" />
-      <item value="CLEARTEXT communication to deliveryman.lwjwlkj.com not permitted by network security policy" />
-      <item value="REWRITE CACHE CONTROL INTERCEPTOR" />
-      <item value="unexpected" />
-      <item value="unexpected end of stream on null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1699" />
-        <entry key="ENGLISH" value="1700" />
+        <entry key="CHINESE" value="1718" />
+        <entry key="ENGLISH" value="1719" />
         <entry key="DUTCH" value="1" />
         <entry key="MARATHI" value="1" />
         <entry key="GREEK" value="1" />
