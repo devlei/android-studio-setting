@@ -7,10 +7,16 @@
     <option name="newTranslationDialogY" value="239" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="订购" />
+      <item value="ding" />
+      <item value="获取订单" />
+      <item value="下单" />
+      <item value="下载" />
+      <item value="xa" />
+      <item value="li" />
       <item value="auto Renewal" />
       <item value="subscribe" />
       <item value="订阅" />
-      <item value="下单" />
       <item value="你们可以看之前邮件的附件照片" />
       <item value="你们可以看之前邮件的附件" />
       <item value="你们可以看之前邮件的" />
@@ -51,17 +57,11 @@
       <item value="componentname" />
       <item value="capture Session" />
       <item value="Video Record" />
-      <item value="Media Recorder" />
-      <item value="Camera 5 is not available. Ignore physical camera status change" />
-      <item value="Type mismatch: inferred type is Boolean? but Boolean was expected" />
-      <item value="compat" />
-      <item value="component" />
-      <item value="componet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1745" />
-        <entry key="ENGLISH" value="1746" />
+        <entry key="CHINESE" value="1766" />
+        <entry key="ENGLISH" value="1767" />
         <entry key="DUTCH" value="1" />
         <entry key="MARATHI" value="1" />
         <entry key="GREEK" value="1" />
