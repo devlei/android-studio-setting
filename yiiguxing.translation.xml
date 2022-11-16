@@ -7,6 +7,18 @@
     <option name="newTranslationDialogY" value="239" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="你们可以看之前邮件的附件照片" />
+      <item value="你们可以看之前邮件的附件" />
+      <item value="你们可以看之前邮件的" />
+      <item value="你们可以ka" />
+      <item value="n" />
+      <item value="你们可查看附件照片" />
+      <item value="你们可参照附件照片" />
+      <item value="你们可参照附件zha" />
+      <item value="你们可参照fu jian" />
+      <item value="你们可参照福建" />
+      <item value="你们可参照" />
+      <item value="ni" />
       <item value="登出" />
       <item value="logout" />
       <item value="on Logout" />
@@ -45,23 +57,11 @@
       <item value="co" />
       <item value="record" />
       <item value="recorder" />
-      <item value="Create a request suitable for still image capture while recording video. Specifically, this means maximizing image quality without disrupting the ongoing recording. These requests would commonly be used with the CameraCaptureSession.capture method while a request based on TEMPLATE_RECORD is is in use with CameraCaptureSession.setRepeatingRequest. This template is guaranteed to be supported on all camera devices except legacy devices (CameraCharacteristics.INFO_SUPPORTED_HARDWARE_LEVEL == LEGACY) and DEPTH_OUTPUT devices that are not BACKWARD_COMPATIBLE. See Also: createCaptureRequest" />
-      <item value="Create a request suitable for video recording. Specifically, this means that a stable frame rate is used, and post-processing is set for recording quality. These requests would commonly be used with the CameraCaptureSession.setRepeatingRequest method. This template is guaranteed to be supported on all camera devices except DEPTH_OUTPUT devices that are not BACKWARD_COMPATIBLE. See Also: createCaptureRequest" />
-      <item value="Create a request suitable for a camera preview window. Specifically, this means that high frame rate is given priority over the highest-quality post-processing. These requests would normally be used with the CameraCaptureSession.setRepeatingRequest method. This template is guaranteed to be supported on all camera devices. See Also: createCaptureRequest" />
-      <item value="Create a request suitable for still image capture. Specifically, this means prioritizing image quality over frame rate. These requests would commonly be used with the CameraCaptureSession.capture method. This template is guaranteed to be supported on all camera devices except DEPTH_OUTPUT devices that are not BACKWARD_COMPATIBLE. See Also: createCaptureRequest" />
-      <item value="Extractor Muxer Activity" />
-      <item value="capture" />
-      <item value="grep" />
-      <item value="facing" />
-      <item value="lens_facing" />
-      <item value="lens" />
-      <item value="le" />
-      <item value="预览" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1718" />
-        <entry key="ENGLISH" value="1719" />
+        <entry key="CHINESE" value="1728" />
+        <entry key="ENGLISH" value="1729" />
         <entry key="DUTCH" value="1" />
         <entry key="MARATHI" value="1" />
         <entry key="GREEK" value="1" />
