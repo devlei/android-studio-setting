@@ -7,6 +7,10 @@
     <option name="newTranslationDialogY" value="239" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="auto Renewal" />
+      <item value="subscribe" />
+      <item value="订阅" />
+      <item value="下单" />
       <item value="你们可以看之前邮件的附件照片" />
       <item value="你们可以看之前邮件的附件" />
       <item value="你们可以看之前邮件的" />
@@ -53,15 +57,11 @@
       <item value="compat" />
       <item value="component" />
       <item value="componet" />
-      <item value="compo" />
-      <item value="co" />
-      <item value="record" />
-      <item value="recorder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1728" />
-        <entry key="ENGLISH" value="1729" />
+        <entry key="CHINESE" value="1745" />
+        <entry key="ENGLISH" value="1746" />
         <entry key="DUTCH" value="1" />
         <entry key="MARATHI" value="1" />
         <entry key="GREEK" value="1" />
