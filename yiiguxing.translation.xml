@@ -7,6 +7,8 @@
     <option name="newTranslationDialogY" value="239" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Unsupported set of inputsoutputs provided" />
+      <item value="Failed to create capture session; configuration failed" />
       <item value="发起订单" />
       <item value="下单" />
       <item value="x" />
@@ -55,13 +57,11 @@
       <item value="跌倒" />
       <item value="摔倒" />
       <item value="shua" />
-      <item value="帅呆" />
-      <item value="componentname" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1783" />
-        <entry key="ENGLISH" value="1784" />
+        <entry key="CHINESE" value="1785" />
+        <entry key="ENGLISH" value="1786" />
         <entry key="DUTCH" value="1" />
         <entry key="MARATHI" value="1" />
         <entry key="GREEK" value="1" />
