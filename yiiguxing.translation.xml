@@ -78,11 +78,12 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="Sets the speakerphone on or off. This method should only be used by applications that replace the platform-wide management of audio settings or the main telephony application. Params: on – set true to turn on speakerphone; false to turn it off" />
-      <item value="Sets the audio mode. The audio mode encompasses audio routing AND the behavior of the telephony layer. Therefore this method should only be used by applications that replace the platform-wide management of audio settings or the main telephony application. In particular, the MODE_IN_CALL mode should only be used by the telephony application when it places a phone call, as it will cause signals from the radio layer to feed the platform mixer. Params: mode – the requested audio mode. Informs the HAL about the current audio state so that it can route the audio appropriately." />
+      <item value="MODE RINGTONE" />
       <item value="MODE CALL SCREENING" />
       <item value="MODE IN COMMUNICATION" />
-      <item value="MODE RINGTONE" />
+      <item value="get Highest Priority Route" />
+      <item value="Sets the speakerphone on or off. This method should only be used by applications that replace the platform-wide management of audio settings or the main telephony application. Params: on – set true to turn on speakerphone; false to turn it off" />
+      <item value="Sets the audio mode. The audio mode encompasses audio routing AND the behavior of the telephony layer. Therefore this method should only be used by applications that replace the platform-wide management of audio settings or the main telephony application. In particular, the MODE_IN_CALL mode should only be used by the telephony application when it places a phone call, as it will cause signals from the radio layer to feed the platform mixer. Params: mode – the requested audio mode. Informs the HAL about the current audio state so that it can route the audio appropriately." />
       <item value="MODE NORMAL" />
       <item value="MODE CURRENT" />
       <item value="MODE INVALID" />
@@ -91,8 +92,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
