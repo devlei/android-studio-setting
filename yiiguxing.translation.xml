@@ -81,6 +81,7 @@
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="nstantiation of utility class 'LeAccountSdk' " />
       <item value="订阅" />
       <item value="subscrie" />
       <item value="subscri" />
@@ -98,7 +99,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
+        <entry key="CHINESE" value="34" />
         <entry key="ENGLISH" value="33" />
       </map>
     </option>
