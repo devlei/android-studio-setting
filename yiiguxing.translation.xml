@@ -81,30 +81,62 @@
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
-      <item value="Specifies that an element of the program is not an user-visible string which needs to be localized, or does not contain such strings. This annotation is intended to be used by localization tools for detecting strings which should not be reported as requiring localization. If a method parameter is annotated with NonNls, the strings passed as values of this parameter are not reported as requiring localization. Also, if the parameter of a property setter method is annotated with NonNls, values of that property in UI Designer forms are never highlighted as hard-coded strings. If a field is annotated with NonNls, all string literals found in the initializer of the field are not reported as requiring localization. If a method is called on a field, parameter or local variable annotated with NonNls, string literals passed as parameters to the method are not reported as requiring localization. If a field, parameter or local variable annotated with NonNls is passed as a parameter to the equals() method invoked on a string literal, the literal is not reported as requiring localization. If a field, parameter or local variable annotated with NonNls is found at the left side of an assignment expression, all string literals in the right side of the expression are not reported as requiring localization. If a method is annotated with NonNls, string literals returned from the method are not reported as requiring localization. If a class is annotated with NonNls, all string literals in the class and all its subclasses are not reported as requiring localization. If a package is annotated with NonNls, all string literals in the package and all its subpackages are not reported as requiring localization. This annotation also could be used as a meta-annotation, to define derived annotations for convenience. E.g. the following annotation could be defined to annotate the strings that represent UUIDs, thus should not be localized: @NonNls @interface UUID {} Note that using the derived annotation as meta-annotation is not supported. Meta-annotation works only one level deep." />
-      <item value="status" />
-      <item value="stat" />
-      <item value="state" />
-      <item value="nstantiation of utility class 'LeAccountSdk' " />
-      <item value="订阅" />
-      <item value="subscrie" />
-      <item value="subscri" />
-      <item value="MODE RINGTONE" />
-      <item value="MODE CALL SCREENING" />
-      <item value="MODE IN COMMUNICATION" />
-      <item value="get Highest Priority Route" />
-      <item value="Sets the speakerphone on or off. This method should only be used by applications that replace the platform-wide management of audio settings or the main telephony application. Params: on – set true to turn on speakerphone; false to turn it off" />
-      <item value="Sets the audio mode. The audio mode encompasses audio routing AND the behavior of the telephony layer. Therefore this method should only be used by applications that replace the platform-wide management of audio settings or the main telephony application. In particular, the MODE_IN_CALL mode should only be used by the telephony application when it places a phone call, as it will cause signals from the radio layer to feed the platform mixer. Params: mode – the requested audio mode. Informs the HAL about the current audio state so that it can route the audio appropriately." />
-      <item value="MODE NORMAL" />
-      <item value="MODE CURRENT" />
-      <item value="MODE INVALID" />
-      <item value="接管" />
-      <item value="TX Device Manager" />
+      <item value="QR" />
+      <item value="qr" />
+      <item value="生成二维码" />
+      <item value="生成" />
+      <item value="qr Code" />
+      <item value="创建支付二维码" />
+      <item value="qrCode" />
+      <item value="q r" />
+      <item value="获取支付二维码" />
+      <item value="huo" />
+      <item value="获取订单" />
+      <item value="order" />
+      <item value="purchase" />
+      <item value="pu" />
+      <item value="购买" />
+      <item value="defray" />
+      <item value="de" />
+      <item value="支付" />
+      <item value="place order" />
+      <item value="place" />
+      <item value="下单" />
+      <item value="创建订单" />
+      <item value="create Order" />
+      <item value="没有用户界面" />
+      <item value="没有用户" />
+      <item value="No UI" />
+      <item value="No U" />
+      <item value="No Ui" />
+      <item value="NoUi" />
+      <item value="NoUI" />
+      <item value="No" />
+      <item value="NoU" />
+      <item value="NoNu" />
+      <item value="NoN" />
+      <item value="NotUi" />
+      <item value="Notui" />
+      <item value="Not" />
+      <item value="Nui" />
+      <item value="NUI" />
+      <item value="无用户界面" />
+      <item value="无用户" />
+      <item value="wu" />
+      <item value="user interface" />
+      <item value="user" />
+      <item value="UI" />
+      <item value="页面" />
+      <item value="界面" />
+      <item value="jie mian" />
+      <item value="杰缅" />
+      <item value="支付参数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="263" />
+        <entry key="ENGLISH" value="263" />
+        <entry key="MARATHI" value="1" />
       </map>
     </option>
   </component>
