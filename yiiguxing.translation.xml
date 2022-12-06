@@ -81,6 +81,13 @@
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="logout" />
+      <item value="unLogin" />
+      <item value="unLoginI" />
+      <item value="画丶" />
+      <item value="未 登录" />
+      <item value="未登录" />
+      <item value="为登录" />
       <item value="订单号" />
       <item value="orderId" />
       <item value="订单" />
@@ -124,18 +131,11 @@
       <item value="生成二维码" />
       <item value="生成" />
       <item value="qr Code" />
-      <item value="创建支付二维码" />
-      <item value="qrCode" />
-      <item value="q r" />
-      <item value="获取支付二维码" />
-      <item value="huo" />
-      <item value="获取订单" />
-      <item value="order" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="525" />
-        <entry key="ENGLISH" value="524" />
+        <entry key="CHINESE" value="536" />
+        <entry key="ENGLISH" value="534" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
       </map>
