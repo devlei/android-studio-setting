@@ -81,6 +81,44 @@
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="订单号" />
+      <item value="orderId" />
+      <item value="订单" />
+      <item value="order Num" />
+      <item value="商品价格" />
+      <item value="goods Price" />
+      <item value="自定义参数" />
+      <item value="参数" />
+      <item value="不做处理" />
+      <item value="bu zuo chu" />
+      <item value="透传" />
+      <item value="透传参数" />
+      <item value="tou chuan" />
+      <item value="tou chuang" />
+      <item value="偷穿" />
+      <item value="tou" />
+      <item value="数量" />
+      <item value="shu" />
+      <item value="quantity" />
+      <item value="amount" />
+      <item value="多少" />
+      <item value="number" />
+      <item value="数mu" />
+      <item value="数" />
+      <item value="购买数量" />
+      <item value="commodity" />
+      <item value="goods" />
+      <item value="good" />
+      <item value="货物" />
+      <item value="获取" />
+      <item value="物品" />
+      <item value="商品" />
+      <item value="price" />
+      <item value="produce" />
+      <item value="huo qu" />
+      <item value="pr商品" />
+      <item value="product" />
+      <item value="画一" />
       <item value="QR" />
       <item value="qr" />
       <item value="生成二维码" />
@@ -93,49 +131,12 @@
       <item value="huo" />
       <item value="获取订单" />
       <item value="order" />
-      <item value="purchase" />
-      <item value="pu" />
-      <item value="购买" />
-      <item value="defray" />
-      <item value="de" />
-      <item value="支付" />
-      <item value="place order" />
-      <item value="place" />
-      <item value="下单" />
-      <item value="创建订单" />
-      <item value="create Order" />
-      <item value="没有用户界面" />
-      <item value="没有用户" />
-      <item value="No UI" />
-      <item value="No U" />
-      <item value="No Ui" />
-      <item value="NoUi" />
-      <item value="NoUI" />
-      <item value="No" />
-      <item value="NoU" />
-      <item value="NoNu" />
-      <item value="NoN" />
-      <item value="NotUi" />
-      <item value="Notui" />
-      <item value="Not" />
-      <item value="Nui" />
-      <item value="NUI" />
-      <item value="无用户界面" />
-      <item value="无用户" />
-      <item value="wu" />
-      <item value="user interface" />
-      <item value="user" />
-      <item value="UI" />
-      <item value="页面" />
-      <item value="界面" />
-      <item value="jie mian" />
-      <item value="杰缅" />
-      <item value="支付参数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="CHINESE" value="525" />
+        <entry key="ENGLISH" value="524" />
+        <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
       </map>
     </option>
