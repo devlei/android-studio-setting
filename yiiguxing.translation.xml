@@ -81,61 +81,61 @@
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="不支持此功能" />
+      <item value="不支持此" />
+      <item value="不支持此接口调用" />
+      <item value="bu zhi" />
+      <item value="不支持此功能 " />
+      <item value="版本3。3不支持此功能" />
+      <item value="版本不支持此功能" />
+      <item value="不支持" />
+      <item value="bu" />
+      <item value="自动续订" />
+      <item value="renewal" />
+      <item value="Unsupported auto renewal in version" />
+      <item value="Dont support subscribe in version 3.3" />
+      <item value="Dont su subscribe in version 3.3" />
+      <item value="Dont  subscribe in version 3.3" />
+      <item value="Dont subscribe in version 3.3" />
+      <item value="D subscribe in version 3.3" />
+      <item value=" subscribe in version 3.3" />
+      <item value="Unsupported subscribe in version 3.3" />
+      <item value="Unsupported subscription in version 3.3" />
+      <item value="Unsupported subscription in version " />
+      <item value="Unsupported subscription in version 3。3" />
+      <item value="Unsupported subscription in version" />
+      <item value="在3.3版本" />
+      <item value="在3.3" />
+      <item value="在3" />
+      <item value="在3。" />
+      <item value="在3。3" />
+      <item value="在" />
+      <item value="不支持订阅的版本是3.3" />
+      <item value="不支持订阅的版本是" />
+      <item value="不支持订阅的版本是3" />
+      <item value="不支持订阅的版本是3。3" />
+      <item value="不支持ding" />
+      <item value="当前不支持订阅的版本是" />
+      <item value="当前不支持订阅的" />
+      <item value="不支持订阅版本的是3.3" />
+      <item value="不支持订阅版本的是" />
+      <item value="不支持订阅版本的是3" />
+      <item value="不支持订阅版本的是3。3" />
+      <item value="不支持订阅版本的是s" />
+      <item value="不支持订阅版本" />
+      <item value="不止订阅" />
+      <item value="Don't support subscribe on version" />
+      <item value="Don't support subscribe at version" />
+      <item value="subscribe" />
+      <item value="订阅" />
       <item value="general" />
       <item value="universal" />
       <item value="univer" />
-      <item value="u n" />
-      <item value="common" />
-      <item value="same" />
-      <item value="u ni v" />
-      <item value="通用" />
-      <item value="公用" />
-      <item value="gong" />
-      <item value="caller" />
-      <item value="calling" />
-      <item value="调用者" />
-      <item value="调用" />
-      <item value="pass" />
-      <item value="传递" />
-      <item value="支付传递" />
-      <item value="支付传递参数" />
-      <item value="支付chuan" />
-      <item value="zh if u" />
-      <item value="z" />
-      <item value="transfer Parameter" />
-      <item value="transfer Parame" />
-      <item value="transfer Param" />
-      <item value="transferParam" />
-      <item value="transfer" />
-      <item value="trans" />
-      <item value="t ran s" />
-      <item value="diao" />
-      <item value="Calling" />
-      <item value="调用接口的参数" />
-      <item value="接口参数" />
-      <item value="对外" />
-      <item value="jie" />
-      <item value="logout" />
-      <item value="unLogin" />
-      <item value="unLoginI" />
-      <item value="画丶" />
-      <item value="未 登录" />
-      <item value="未登录" />
-      <item value="为登录" />
-      <item value="订单号" />
-      <item value="orderId" />
-      <item value="订单" />
-      <item value="order Num" />
-      <item value="商品价格" />
-      <item value="goods Price" />
-      <item value="自定义参数" />
-      <item value="参数" />
-      <item value="不做处理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="723" />
-        <entry key="ENGLISH" value="720" />
+        <entry key="CHINESE" value="809" />
+        <entry key="ENGLISH" value="810" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
       </map>
