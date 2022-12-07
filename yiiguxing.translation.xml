@@ -74,13 +74,47 @@
     <option name="lastTrimTime" value="1669346512810" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1669971957175" />
+    <option name="lastTrimTime" value="1670416137148" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="general" />
+      <item value="universal" />
+      <item value="univer" />
+      <item value="u n" />
+      <item value="common" />
+      <item value="same" />
+      <item value="u ni v" />
+      <item value="通用" />
+      <item value="公用" />
+      <item value="gong" />
+      <item value="caller" />
+      <item value="calling" />
+      <item value="调用者" />
+      <item value="调用" />
+      <item value="pass" />
+      <item value="传递" />
+      <item value="支付传递" />
+      <item value="支付传递参数" />
+      <item value="支付chuan" />
+      <item value="zh if u" />
+      <item value="z" />
+      <item value="transfer Parameter" />
+      <item value="transfer Parame" />
+      <item value="transfer Param" />
+      <item value="transferParam" />
+      <item value="transfer" />
+      <item value="trans" />
+      <item value="t ran s" />
+      <item value="diao" />
+      <item value="Calling" />
+      <item value="调用接口的参数" />
+      <item value="接口参数" />
+      <item value="对外" />
+      <item value="jie" />
       <item value="logout" />
       <item value="unLogin" />
       <item value="unLoginI" />
@@ -97,45 +131,11 @@
       <item value="自定义参数" />
       <item value="参数" />
       <item value="不做处理" />
-      <item value="bu zuo chu" />
-      <item value="透传" />
-      <item value="透传参数" />
-      <item value="tou chuan" />
-      <item value="tou chuang" />
-      <item value="偷穿" />
-      <item value="tou" />
-      <item value="数量" />
-      <item value="shu" />
-      <item value="quantity" />
-      <item value="amount" />
-      <item value="多少" />
-      <item value="number" />
-      <item value="数mu" />
-      <item value="数" />
-      <item value="购买数量" />
-      <item value="commodity" />
-      <item value="goods" />
-      <item value="good" />
-      <item value="货物" />
-      <item value="获取" />
-      <item value="物品" />
-      <item value="商品" />
-      <item value="price" />
-      <item value="produce" />
-      <item value="huo qu" />
-      <item value="pr商品" />
-      <item value="product" />
-      <item value="画一" />
-      <item value="QR" />
-      <item value="qr" />
-      <item value="生成二维码" />
-      <item value="生成" />
-      <item value="qr Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="536" />
-        <entry key="ENGLISH" value="534" />
+        <entry key="CHINESE" value="723" />
+        <entry key="ENGLISH" value="720" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
       </map>
