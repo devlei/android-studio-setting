@@ -81,6 +81,7 @@
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="mode" />
       <item value="不支持此功能" />
       <item value="不支持此" />
       <item value="不支持此接口调用" />
@@ -130,12 +131,11 @@
       <item value="订阅" />
       <item value="general" />
       <item value="universal" />
-      <item value="univer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="809" />
-        <entry key="ENGLISH" value="810" />
+        <entry key="CHINESE" value="810" />
+        <entry key="ENGLISH" value="811" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
       </map>
