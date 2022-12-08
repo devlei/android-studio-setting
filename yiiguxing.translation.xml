@@ -81,6 +81,21 @@
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="签约" />
+      <item value="普通支付" />
+      <item value="非订阅模式" />
+      <item value="非订阅" />
+      <item value="非订阅支付" />
+      <item value="ou" />
+      <item value="purchase" />
+      <item value="purchare" />
+      <item value="pur" />
+      <item value="purcahre" />
+      <item value="购买" />
+      <item value="下单" />
+      <item value="defray" />
+      <item value="de f" />
+      <item value="支付" />
       <item value="renew User Id" />
       <item value="mode" />
       <item value="不支持此功能" />
@@ -116,26 +131,11 @@
       <item value="不支持订阅的版本是" />
       <item value="不支持订阅的版本是3" />
       <item value="不支持订阅的版本是3。3" />
-      <item value="不支持ding" />
-      <item value="当前不支持订阅的版本是" />
-      <item value="当前不支持订阅的" />
-      <item value="不支持订阅版本的是3.3" />
-      <item value="不支持订阅版本的是" />
-      <item value="不支持订阅版本的是3" />
-      <item value="不支持订阅版本的是3。3" />
-      <item value="不支持订阅版本的是s" />
-      <item value="不支持订阅版本" />
-      <item value="不止订阅" />
-      <item value="Don't support subscribe on version" />
-      <item value="Don't support subscribe at version" />
-      <item value="subscribe" />
-      <item value="订阅" />
-      <item value="general" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="810" />
-        <entry key="ENGLISH" value="811" />
+        <entry key="CHINESE" value="874" />
+        <entry key="ENGLISH" value="874" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
       </map>
