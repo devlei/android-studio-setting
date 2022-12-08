@@ -81,6 +81,13 @@
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="系统账号已注销" />
+      <item value="系统账号yi'zhu" />
+      <item value="系统账号yi'zhu'y" />
+      <item value="xi" />
+      <item value="系统账号发生改变" />
+      <item value="系统" />
+      <item value="账号发生改变" />
       <item value="签约" />
       <item value="普通支付" />
       <item value="非订阅模式" />
@@ -124,18 +131,11 @@
       <item value="在3.3版本" />
       <item value="在3.3" />
       <item value="在3" />
-      <item value="在3。" />
-      <item value="在3。3" />
-      <item value="在" />
-      <item value="不支持订阅的版本是3.3" />
-      <item value="不支持订阅的版本是" />
-      <item value="不支持订阅的版本是3" />
-      <item value="不支持订阅的版本是3。3" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="874" />
-        <entry key="ENGLISH" value="874" />
+        <entry key="CHINESE" value="901" />
+        <entry key="ENGLISH" value="901" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
       </map>
