@@ -1,0 +1,144 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogHeight" value="323" />
+    <option name="newTranslationDialogWidth" value="626" />
+    <option name="newTranslationDialogX" value="886" />
+    <option name="newTranslationDialogY" value="239" />
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="descriptor" />
+      <item value="on Granted" />
+      <item value="period" />
+      <item value="Unsupported set of inputsoutputs provided" />
+      <item value="Failed to create capture session; configuration failed" />
+      <item value="发起订单" />
+      <item value="下单" />
+      <item value="x" />
+      <item value="订购" />
+      <item value="ding" />
+      <item value="获取订单" />
+      <item value="下载" />
+      <item value="xa" />
+      <item value="li" />
+      <item value="auto Renewal" />
+      <item value="subscribe" />
+      <item value="订阅" />
+      <item value="你们可以看之前邮件的附件照片" />
+      <item value="你们可以看之前邮件的附件" />
+      <item value="你们可以看之前邮件的" />
+      <item value="你们可以ka" />
+      <item value="n" />
+      <item value="你们可查看附件照片" />
+      <item value="你们可参照附件照片" />
+      <item value="你们可参照附件zha" />
+      <item value="你们可参照fu jian" />
+      <item value="你们可参照福建" />
+      <item value="你们可参照" />
+      <item value="ni" />
+      <item value="登出" />
+      <item value="logout" />
+      <item value="on Logout" />
+      <item value="注销" />
+      <item value="void onlogout();" />
+      <item value="create Identifier" />
+      <item value="Listener唯一标识" />
+      <item value="listener Unique" />
+      <item value="Returns the absolute path to the application specific cache directory on the filesystem." />
+      <item value="frequency" />
+      <item value="Only the original thread that created a view hierarchy can touch its views." />
+      <item value="Set whether this is an ongoing notification. Ongoing notifications cannot be dismissed by the user, so your application or service must take care of canceling them. They are typically used to indicate a background task that the user is actively engaged with (e.g., playing music) or is pending in some way and therefore occupying the device (e.g., a file download, sync operation, active network connection). See Also: Notification.FLAG_ONGOING_EVENT" />
+      <item value="set Priority" />
+      <item value="Low notification importance: Shows in the shade, and potentially in the status bar (see shouldHideSilentStatusBarIcons()), but is not audibly intrusive" />
+      <item value="A notification with no importance: does not show in the shade." />
+      <item value="监控" />
+      <item value="检测" />
+      <item value="Do not place Android context classes in static fields; this is a memory leak" />
+      <item value="Still waiting for package manifests to be fetched remotely." />
+      <item value="emit Capture" />
+      <item value="recursive" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1788" />
+        <entry key="ENGLISH" value="1789" />
+        <entry key="DUTCH" value="1" />
+        <entry key="MARATHI" value="1" />
+        <entry key="GREEK" value="1" />
+        <entry key="ITALIAN" value="1" />
+        <entry key="HINDI" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1669346512810" />
+  </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1671419535361" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogX" value="718" />
+    <option name="newTranslationDialogY" value="510" />
+    <histories>
+      <item value="没有声音" />
+      <item value="mei'you'shen'yin" />
+      <item value="mei" />
+      <item value="系统账号已注销" />
+      <item value="系统账号yi'zhu" />
+      <item value="系统账号yi'zhu'y" />
+      <item value="xi" />
+      <item value="系统账号发生改变" />
+      <item value="系统" />
+      <item value="账号发生改变" />
+      <item value="签约" />
+      <item value="普通支付" />
+      <item value="非订阅模式" />
+      <item value="非订阅" />
+      <item value="非订阅支付" />
+      <item value="ou" />
+      <item value="purchase" />
+      <item value="purchare" />
+      <item value="pur" />
+      <item value="purcahre" />
+      <item value="购买" />
+      <item value="下单" />
+      <item value="defray" />
+      <item value="de f" />
+      <item value="支付" />
+      <item value="renew User Id" />
+      <item value="mode" />
+      <item value="不支持此功能" />
+      <item value="不支持此" />
+      <item value="不支持此接口调用" />
+      <item value="bu zhi" />
+      <item value="不支持此功能 " />
+      <item value="版本3。3不支持此功能" />
+      <item value="版本不支持此功能" />
+      <item value="不支持" />
+      <item value="bu" />
+      <item value="自动续订" />
+      <item value="renewal" />
+      <item value="Unsupported auto renewal in version" />
+      <item value="Dont support subscribe in version 3.3" />
+      <item value="Dont su subscribe in version 3.3" />
+      <item value="Dont  subscribe in version 3.3" />
+      <item value="Dont subscribe in version 3.3" />
+      <item value="D subscribe in version 3.3" />
+      <item value=" subscribe in version 3.3" />
+      <item value="Unsupported subscribe in version 3.3" />
+      <item value="Unsupported subscription in version 3.3" />
+      <item value="Unsupported subscription in version " />
+      <item value="Unsupported subscription in version 3。3" />
+      <item value="Unsupported subscription in version" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="921" />
+        <entry key="ENGLISH" value="921" />
+        <entry key="LATIN" value="2" />
+        <entry key="MARATHI" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
