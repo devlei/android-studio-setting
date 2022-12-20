@@ -1,0 +1,29 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
+    <option name="nonFavorites">
+      <list>
+        <option value="package:com.kongqw.clientV2" />
+        <option value="package:com.robot.controlcenter " />
+        <option value="package:mine " />
+        <option value="tag:SignatureInterceptor" />
+        <option value="tag:" />
+        <option value="package:com.android.camera2 " />
+        <option value="package:com.sunnyoit.sunnyfacedemo " />
+        <option value="package:com.sunnyoit.sunnyfacedemo" />
+        <option value="tag:[LeArchitecture-3.1]" />
+        <option value="tag~:BaseActivity" />
+        <option value="tag:[LeArchitecture-3.1]-BaseActivity " />
+        <option value="tag:[LeArchitecture-3.1]-MainActivity " />
+        <option value="tag:CameraSocket" />
+        <option value="tag:Camera2Activity" />
+        <option value="tag:CameraSocket,tag:Camera2Activity" />
+        <option value="tag:CameraSocket,Camera2Activity" />
+        <option value="tag:CameraSocket ,tag:Camera2Activity" />
+        <option value="tag:CameraSocket " />
+        <option value="tag:CameraSocket,tag:" />
+        <option value="package:com.hunantv.license" />
+      </list>
+    </option>
+  </component>
+</application>
