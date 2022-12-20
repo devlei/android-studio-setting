@@ -15,6 +15,8 @@
     <entry key="ide.experimental.ui.vcs.branch.popup" value="true" />
     <entry key="ide.experimental.ui" value="true" />
     <entry key="gradle.version.catalogs.dynamic.support" value="true" />
+    <entry key="ide.experimental.ui.inter.font" value="true" />
+    <entry key="ide.experimental.ui.navbar.scroll" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
