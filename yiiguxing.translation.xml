@@ -81,6 +81,16 @@
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="get Vip Info" />
+      <item value="贵宾" />
+      <item value="gui" />
+      <item value="获得" />
+      <item value="获取" />
+      <item value="vip" />
+      <item value="会员信息" />
+      <item value="会员" />
+      <item value="h" />
+      <item value="hu" />
       <item value="Instantiation of utility class 'LeAccountSdk' " />
       <item value="Le Account Sdk" />
       <item value="ij continuation indent size" />
@@ -121,21 +131,11 @@
       <item value="支付" />
       <item value="renew User Id" />
       <item value="mode" />
-      <item value="不支持此功能" />
-      <item value="不支持此" />
-      <item value="不支持此接口调用" />
-      <item value="bu zhi" />
-      <item value="不支持此功能 " />
-      <item value="版本3。3不支持此功能" />
-      <item value="版本不支持此功能" />
-      <item value="不支持" />
-      <item value="bu" />
-      <item value="自动续订" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="947" />
-        <entry key="ENGLISH" value="946" />
+        <entry key="CHINESE" value="992" />
+        <entry key="ENGLISH" value="991" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
       </map>
