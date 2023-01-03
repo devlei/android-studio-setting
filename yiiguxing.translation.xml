@@ -81,6 +81,14 @@
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="创建" />
+      <item value="c" />
+      <item value="生产" />
+      <item value="生成" />
+      <item value="拼接" />
+      <item value="p" />
+      <item value="combine" />
+      <item value="combine Params" />
       <item value="combine Base Params" />
       <item value="get Vip Info" />
       <item value="贵宾" />
@@ -123,19 +131,11 @@
       <item value="ou" />
       <item value="purchase" />
       <item value="purchare" />
-      <item value="pur" />
-      <item value="purcahre" />
-      <item value="购买" />
-      <item value="下单" />
-      <item value="defray" />
-      <item value="de f" />
-      <item value="支付" />
-      <item value="renew User Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="992" />
-        <entry key="ENGLISH" value="992" />
+        <entry key="CHINESE" value="1033" />
+        <entry key="ENGLISH" value="1034" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
       </map>
