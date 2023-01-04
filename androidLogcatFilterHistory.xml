@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:ba" />
+    <option name="mostRecentlyUsed" value="tag:BaseRequest" />
     <option name="nonFavorites">
       <list>
-        <option value="package:ba" />
+        <option value="tag:BaseRequest" />
         <option value="package:mine " />
+        <option value="package:ba" />
         <option value="package:com.letv.metabot.record.demo " />
         <option value="package:com.kongqw.clientV2" />
         <option value="package:com.robot.controlcenter " />
@@ -22,7 +23,6 @@
         <option value="tag:CameraSocket,tag:Camera2Activity" />
         <option value="tag:CameraSocket,Camera2Activity" />
         <option value="tag:CameraSocket ,tag:Camera2Activity" />
-        <option value="tag:CameraSocket " />
       </list>
     </option>
   </component>
