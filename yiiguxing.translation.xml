@@ -81,6 +81,9 @@
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="高级信息" />
+      <item value="高级" />
+      <item value="zh" />
       <item value="authorize" />
       <item value="vendorNo" />
       <item value="vend" />
@@ -128,14 +131,11 @@
       <item value="获得" />
       <item value="获取" />
       <item value="vip" />
-      <item value="会员信息" />
-      <item value="会员" />
-      <item value="h" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1076" />
-        <entry key="ENGLISH" value="1073" />
+        <entry key="CHINESE" value="1086" />
+        <entry key="ENGLISH" value="1083" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
       </map>
