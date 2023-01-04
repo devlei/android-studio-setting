@@ -81,6 +81,12 @@
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="tesco" />
+      <item value="乐购" />
+      <item value="商场" />
+      <item value="购物" />
+      <item value="le'gou" />
+      <item value="le" />
       <item value="高级信息" />
       <item value="高级" />
       <item value="zh" />
@@ -125,17 +131,11 @@
       <item value="combine" />
       <item value="combine Params" />
       <item value="combine Base Params" />
-      <item value="get Vip Info" />
-      <item value="贵宾" />
-      <item value="gui" />
-      <item value="获得" />
-      <item value="获取" />
-      <item value="vip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1086" />
-        <entry key="ENGLISH" value="1083" />
+        <entry key="CHINESE" value="1132" />
+        <entry key="ENGLISH" value="1129" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
       </map>
