@@ -81,6 +81,8 @@
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="auth" />
+      <item value="授权" />
       <item value="unchecked cast" />
       <item value="unche" />
       <item value="generfiy" />
@@ -129,14 +131,12 @@
       <item value="mo" />
       <item value="model" />
       <item value="User Info Module" />
-      <item value="创建" />
-      <item value="c" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1134" />
-        <entry key="ENGLISH" value="1129" />
+        <entry key="CHINESE" value="1148" />
+        <entry key="ENGLISH" value="1142" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
       </map>
