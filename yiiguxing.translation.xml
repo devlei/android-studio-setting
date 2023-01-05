@@ -81,6 +81,11 @@
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="configuration" />
+      <item value="configua" />
+      <item value="configu" />
+      <item value="config" />
+      <item value="it is a reserved name" />
       <item value="auth" />
       <item value="授权" />
       <item value="unchecked cast" />
@@ -126,17 +131,12 @@
       <item value="p'la'te" />
       <item value="p" />
       <item value="plate" />
-      <item value="平台" />
-      <item value="module" />
-      <item value="mo" />
-      <item value="model" />
-      <item value="User Info Module" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1148" />
-        <entry key="ENGLISH" value="1142" />
+        <entry key="CHINESE" value="1149" />
+        <entry key="ENGLISH" value="1143" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
       </map>
