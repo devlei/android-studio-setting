@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="tag:[LeDownloadSdk-Function0&lt;java.lang.String&gt;-MainActivity] " />
         <option value="tag:BaseRequest" />
         <option value="package:ba" />
         <option value="package:com.letv.metabot.record.demo " />
@@ -21,7 +22,6 @@
         <option value="tag:Camera2Activity" />
         <option value="tag:CameraSocket,tag:Camera2Activity" />
         <option value="tag:CameraSocket,Camera2Activity" />
-        <option value="tag:CameraSocket ,tag:Camera2Activity" />
       </list>
     </option>
   </component>
