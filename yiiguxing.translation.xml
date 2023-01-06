@@ -81,6 +81,8 @@
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="constant" />
+      <item value="consta" />
       <item value="redundant" />
       <item value="redun" />
       <item value="redu" />
@@ -129,13 +131,11 @@
       <item value="migrage dsl pro" />
       <item value="migrage dsl " />
       <item value="migrage dsl" />
-      <item value="migrage " />
-      <item value="migrage" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1164" />
+        <entry key="CHINESE" value="1165" />
         <entry key="ENGLISH" value="1159" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
