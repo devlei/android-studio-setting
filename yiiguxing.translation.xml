@@ -81,6 +81,7 @@
     <option name="newTranslationDialogX" value="718" />
     <option name="newTranslationDialogY" value="510" />
     <histories>
+      <item value="ktx" />
       <item value="dict" />
       <item value="字典" />
       <item value="zi'du" />
@@ -130,7 +131,6 @@
       <item value="migrag" />
       <item value="insert imports for inner classes" />
       <item value="insert imports for inner classed" />
-      <item value="insert im" />
     </histories>
     <option name="languageScores">
       <map>
@@ -139,6 +139,7 @@
         <entry key="ENGLISH" value="1159" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
+        <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
   </component>
