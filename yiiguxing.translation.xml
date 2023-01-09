@@ -82,6 +82,7 @@
     <option name="newTranslationDialogY" value="510" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="A problem occurred evaluating project ':letvStore'. &gt; Build was configured to prefer settings repositories over project repositories but repository 'flatDir' was added by build file 'letvStorebuild.gradle'" />
       <item value="DownloadInstallService" />
       <item value="DownloadInstall" />
       <item value="Down" />
@@ -131,13 +132,12 @@
       <item value="consta" />
       <item value="redundant" />
       <item value="redun" />
-      <item value="redu" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
         <entry key="CHINESE" value="1273" />
-        <entry key="ENGLISH" value="1266" />
+        <entry key="ENGLISH" value="1267" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
         <entry key="VIETNAMESE" value="1" />
