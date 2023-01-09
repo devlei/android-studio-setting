@@ -82,6 +82,9 @@
     <option name="newTranslationDialogY" value="510" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Build was configured to prefer settings repositories over project repositories but repository 'flatDir' was added by build file 'letvStorebuild.gradle'" />
+      <item value="DSL element 'dexOptions' is obsolete and should be removed. It will be removed in version 8.0 of the Android Gradle plugin. Using it has no effect, and the AndroidGradle plugin optimizes dexing automatically. Affected Modules: letvStore" />
+      <item value="detected" />
       <item value="A problem occurred evaluating project ':letvStore'. &gt; Build was configured to prefer settings repositories over project repositories but repository 'flatDir' was added by build file 'letvStorebuild.gradle'" />
       <item value="DownloadInstallService" />
       <item value="DownloadInstall" />
@@ -129,15 +132,12 @@
       <item value="al" />
       <item value="ap" />
       <item value="constant" />
-      <item value="consta" />
-      <item value="redundant" />
-      <item value="redun" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
         <entry key="CHINESE" value="1273" />
-        <entry key="ENGLISH" value="1267" />
+        <entry key="ENGLISH" value="1270" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
         <entry key="VIETNAMESE" value="1" />
