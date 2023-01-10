@@ -78,10 +78,21 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogX" value="770" />
-    <option name="newTranslationDialogY" value="536" />
+    <option name="newTranslationDialogX" value="1115" />
+    <option name="newTranslationDialogY" value="460" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="plat" />
+      <item value="dimension" />
+      <item value="product Flavors" />
+      <item value="demand" />
+      <item value="ij kotlin packages to use import on demand" />
+      <item value="insert imports for nested classes" />
+      <item value="insert imports for nested classse" />
+      <item value="insert imports for nested classsed" />
+      <item value="inset" />
+      <item value="at least" />
+      <item value="Dependencies using groupId com.android.support and androidx. can not be combined but found com.android.support:appcompat-v7:24.0.0 and androidx.multidex:multidex:2.0.0 incompatible dependencies" />
       <item value="The manifest placeholders. See Inject Build Variables into the Manifest ." />
       <item value="Changing the value of isZipAlignEnabled no longer has any effect" />
       <item value="line comment at first column" />
@@ -121,23 +132,12 @@
       <item value="swift" />
       <item value="W" />
       <item value="Easy" />
-      <item value="liable" />
-      <item value="Store Download Service" />
-      <item value="Hole Download Service" />
-      <item value=" Download Service" />
-      <item value="Fast Download Service" />
-      <item value="Easy Download Service" />
-      <item value="Download Service" />
-      <item value="Download Easy Service" />
-      <item value="Store" />
-      <item value="Hole" />
-      <item value="E" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1289" />
-        <entry key="ENGLISH" value="1287" />
+        <entry key="CHINESE" value="1293" />
+        <entry key="ENGLISH" value="1291" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
         <entry key="VIETNAMESE" value="1" />
