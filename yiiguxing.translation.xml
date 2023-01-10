@@ -82,6 +82,7 @@
     <option name="newTranslationDialogY" value="536" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The manifest placeholders. See Inject Build Variables into the Manifest ." />
       <item value="Changing the value of isZipAlignEnabled no longer has any effect" />
       <item value="line comment at first column" />
       <item value="line comment at first colu" />
@@ -131,13 +132,12 @@
       <item value="Store" />
       <item value="Hole" />
       <item value="E" />
-      <item value="便利" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
         <entry key="CHINESE" value="1289" />
-        <entry key="ENGLISH" value="1286" />
+        <entry key="ENGLISH" value="1287" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
         <entry key="VIETNAMESE" value="1" />
