@@ -82,6 +82,7 @@
     <option name="newTranslationDialogY" value="510" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="SHIMMER" />
       <item value="KEY ALIAS" />
       <item value="打包" />
       <item value="da" />
@@ -131,13 +132,12 @@
       <item value="点" />
       <item value="dot" />
       <item value="PATTERN" />
-      <item value="alphabetically" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
         <entry key="CHINESE" value="1286" />
-        <entry key="ENGLISH" value="1283" />
+        <entry key="ENGLISH" value="1284" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
         <entry key="VIETNAMESE" value="1" />
