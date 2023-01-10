@@ -78,10 +78,27 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogX" value="718" />
-    <option name="newTranslationDialogY" value="510" />
+    <option name="newTranslationDialogX" value="770" />
+    <option name="newTranslationDialogY" value="536" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="line comment at first column" />
+      <item value="line comment at first colu" />
+      <item value="line comment at first c" />
+      <item value="line co" />
+      <item value="block comment at first column" />
+      <item value="block comment at first colu" />
+      <item value="block comment at first " />
+      <item value="block comment" />
+      <item value="block" />
+      <item value="keep maximum blank lines" />
+      <item value="keep maximum " />
+      <item value="keep maximum" />
+      <item value="keep maxi" />
+      <item value="keep max" />
+      <item value="keep " />
+      <item value="kee" />
+      <item value="keeep " />
       <item value="The set of issue IDs to suppress. Callers are allowed to modify this collection." />
       <item value="SHIMMER" />
       <item value="KEY ALIAS" />
@@ -115,28 +132,11 @@
       <item value="E" />
       <item value="便利" />
       <item value="bian" />
-      <item value="bian'yi" />
-      <item value="方便" />
-      <item value="快速" />
-      <item value="快捷" />
-      <item value="快" />
-      <item value="快捷安装" />
-      <item value="yi'jian'z" />
-      <item value="y" />
-      <item value="installation" />
-      <item value="install" />
-      <item value="in" />
-      <item value="i'n" />
-      <item value="一键安装" />
-      <item value="version Name" />
-      <item value="version Code" />
-      <item value="点" />
-      <item value="dot" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1286" />
+        <entry key="CHINESE" value="1289" />
         <entry key="ENGLISH" value="1285" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
