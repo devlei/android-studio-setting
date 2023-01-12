@@ -83,6 +83,9 @@
     <option name="newTranslationDialogY" value="460" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="wrap on typing" />
+      <item value="wrap" />
+      <item value="wr" />
       <item value="user id lower case" />
       <item value="user id lower" />
       <item value="小写" />
@@ -130,14 +133,11 @@
       <item value="at least" />
       <item value="Dependencies using groupId com.android.support and androidx. can not be combined but found com.android.support:appcompat-v7:24.0.0 and androidx.multidex:multidex:2.0.0 incompatible dependencies" />
       <item value="The manifest placeholders. See Inject Build Variables into the Manifest ." />
-      <item value="Changing the value of isZipAlignEnabled no longer has any effect" />
-      <item value="line comment at first column" />
-      <item value="line comment at first colu" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1356" />
+        <entry key="CHINESE" value="1357" />
         <entry key="ENGLISH" value="1357" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
