@@ -83,6 +83,7 @@
     <option name="newTranslationDialogY" value="460" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Permitted" />
       <item value="wrap on typing" />
       <item value="wrap" />
       <item value="wr" />
@@ -132,13 +133,12 @@
       <item value="inset" />
       <item value="at least" />
       <item value="Dependencies using groupId com.android.support and androidx. can not be combined but found com.android.support:appcompat-v7:24.0.0 and androidx.multidex:multidex:2.0.0 incompatible dependencies" />
-      <item value="The manifest placeholders. See Inject Build Variables into the Manifest ." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
         <entry key="CHINESE" value="1357" />
-        <entry key="ENGLISH" value="1357" />
+        <entry key="ENGLISH" value="1358" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
         <entry key="VIETNAMESE" value="1" />
