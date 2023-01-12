@@ -83,6 +83,18 @@
     <option name="newTranslationDialogY" value="460" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="user id lower case" />
+      <item value="user id lower" />
+      <item value="小写" />
+      <item value="x" />
+      <item value="被xx替代" />
+      <item value="被替代" />
+      <item value="Deprecated" />
+      <item value="instead of by" />
+      <item value="instead of by {@link init(Context)}" />
+      <item value="instead of" />
+      <item value="of" />
+      <item value="ERROR ILLEGAL AUTHORIZE CODE" />
       <item value="Device Meta" />
       <item value="机型" />
       <item value="env" />
@@ -121,24 +133,12 @@
       <item value="Changing the value of isZipAlignEnabled no longer has any effect" />
       <item value="line comment at first column" />
       <item value="line comment at first colu" />
-      <item value="line comment at first c" />
-      <item value="line co" />
-      <item value="block comment at first column" />
-      <item value="block comment at first colu" />
-      <item value="block comment at first " />
-      <item value="block comment" />
-      <item value="block" />
-      <item value="keep maximum blank lines" />
-      <item value="keep maximum " />
-      <item value="keep maximum" />
-      <item value="keep maxi" />
-      <item value="keep max" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1332" />
-        <entry key="ENGLISH" value="1332" />
+        <entry key="CHINESE" value="1356" />
+        <entry key="ENGLISH" value="1357" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
         <entry key="VIETNAMESE" value="1" />
