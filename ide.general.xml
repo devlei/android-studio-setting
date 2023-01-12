@@ -14,10 +14,9 @@
     <entry key="ide.experimental.ui.toolwindow.stripes" value="true" />
     <entry key="ide.experimental.ui.vcs.branch.popup" value="true" />
     <entry key="gradle.version.catalogs.dynamic.support" value="true" />
-    <entry key="ide.expansion.hints.enabled" value="false" />
-    <entry key="ide.experimental.ui.animations" value="false" />
-    <entry key="ide.experimental.ui.title.toolbar.in.macos" value="false" />
-    <entry key="ide.experimental.ui.tree.selection" value="false" />
+    <entry key="ide.experimental.ui.navbar.scroll" value="true" />
+    <entry key="ide.experimental.ui" value="true" />
+    <entry key="debugger.new.tool.window.layout" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
