@@ -1,12 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:com.letv.smartControl" />
         <option value="package:" />
         <option value="package:com.stv.smartControl" />
-        <option value="package:mine " />
         <option value="tag:[LeDownloadSdk-Function0&lt;java.lang.String&gt;-MainActivity] " />
         <option value="tag:BaseRequest" />
         <option value="package:ba" />
