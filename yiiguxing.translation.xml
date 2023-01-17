@@ -74,15 +74,41 @@
     <option name="lastTrimTime" value="1669346512810" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673258485885" />
+    <option name="lastTrimTime" value="1673923090676" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="244" />
-    <option name="newTranslationDialogX" value="1115" />
-    <option name="newTranslationDialogY" value="460" />
+    <option name="newTranslationDialogX" value="730" />
+    <option name="newTranslationDialogY" value="202" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="tv os" />
+      <item value="tvo" />
+      <item value="tvos" />
+      <item value="storedownload" />
+      <item value="quickdownload" />
+      <item value="quik" />
+      <item value="q" />
+      <item value="fastdownload" />
+      <item value="holedownload" />
+      <item value="hole" />
+      <item value="打洞" />
+      <item value="da'dong" />
+      <item value="da" />
+      <item value="外面" />
+      <item value="外部" />
+      <item value="wai" />
+      <item value="进程" />
+      <item value="jin'cheng" />
+      <item value="Aidl" />
+      <item value="quick" />
+      <item value="k" />
+      <item value="方便" />
+      <item value="kua" />
+      <item value="kua'u" />
+      <item value="快捷" />
+      <item value="一键安装" />
       <item value="is Permitted" />
       <item value="wrap on typing" />
       <item value="wrap" />
@@ -107,38 +133,12 @@
       <item value="encryp" />
       <item value="encryption" />
       <item value="ENCRYPTION" />
-      <item value="秘钥" />
-      <item value="mi" />
-      <item value="名称" />
-      <item value="Returns the name of this enum constant, exactly as declared in its enum declaration." />
-      <item value="flavor" />
-      <item value="flavors" />
-      <item value="flavores" />
-      <item value="fl" />
-      <item value="签名" />
-      <item value="signing" />
-      <item value="sign" />
-      <item value="sign 918" />
-      <item value="sign Other" />
-      <item value="Set owner and mode of of given File. Params: mode – to apply through chmod uid – to apply through chown, or -1 to leave unchanged gid – to apply through chown, or -1 to leave unchanged Returns: 0 on success, otherwise errno. hide" />
-      <item value="Unsupported App Usage" />
-      <item value="plat" />
-      <item value="dimension" />
-      <item value="product Flavors" />
-      <item value="demand" />
-      <item value="ij kotlin packages to use import on demand" />
-      <item value="insert imports for nested classes" />
-      <item value="insert imports for nested classse" />
-      <item value="insert imports for nested classsed" />
-      <item value="inset" />
-      <item value="at least" />
-      <item value="Dependencies using groupId com.android.support and androidx. can not be combined but found com.android.support:appcompat-v7:24.0.0 and androidx.multidex:multidex:2.0.0 incompatible dependencies" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="1357" />
-        <entry key="ENGLISH" value="1358" />
+        <entry key="CHINESE" value="1437" />
+        <entry key="ENGLISH" value="1438" />
         <entry key="LATIN" value="2" />
         <entry key="MARATHI" value="1" />
         <entry key="VIETNAMESE" value="1" />
