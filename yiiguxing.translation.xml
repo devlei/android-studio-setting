@@ -1,0 +1,22 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1702977670409" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogHeight" value="260" />
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="742" />
+    <option name="newTranslationDialogY" value="441" />
+    <histories>
+      <item value="on Event Result" />
+      <item value="AIUI Event" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+        <entry key="HAWAIIAN" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
