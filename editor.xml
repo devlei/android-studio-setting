@@ -1,6 +1,17 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="ENABLE_SECOND_REFORMAT" value="true" />
+  </component>
+  <component name="DeclarativeInlayHintsSettings">
+    <option name="providerIdToEnabled">
+      <map>
+        <entry key="compose.state.read" value="false" />
+        <entry key="java.implicit.types" value="false" />
+        <entry key="java.method.chains" value="true" />
+      </map>
+    </option>
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
