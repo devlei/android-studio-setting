@@ -5,12 +5,12 @@
         <option value="package:mine tag:[voice-0.0.1]" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:[voice-0.0.1]" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine tag:" />
         <option value="package:mine " />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
