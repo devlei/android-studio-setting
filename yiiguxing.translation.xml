@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1702977670409" />
+    <option name="lastTrimTime" value="1703660899411" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
@@ -8,6 +8,8 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="Consumes the next token from the JSON stream and asserts that it is the beginning of a new object." />
+      <item value="Returns the type of the next token without consuming it." />
       <item value="Joshi" />
       <item value="This means that either the device shut down, logd crashed, or this instance of logcat was unable to read log messages as quickly as they were being produced. If you have enabled significant logging, look into using the -G option to increase log buffer sizes." />
       <item value="compat&#10;" />
@@ -23,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
