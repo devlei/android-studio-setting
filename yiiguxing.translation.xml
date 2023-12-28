@@ -4,10 +4,43 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="592" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="提取共用 dependencies 到 common library" />
+      <item value="提取共用 dependencies 到 common libr" />
+      <item value="提取共用 dependencies 到 common li'b" />
+      <item value="提取共用 dependencies 到 common" />
+      <item value="提取共用 dependencies 到comm" />
+      <item value="提取共用 dependencies 到com" />
+      <item value="提取共用 dependencies 到" />
+      <item value="提取共用 dependencies" />
+      <item value="提取共用 depend" />
+      <item value="提取共用 depen" />
+      <item value="提取共用 de" />
+      <item value="提取共用 " />
+      <item value="提取共用 implementation" />
+      <item value="提取共用 implementta" />
+      <item value="提取共用 implement" />
+      <item value="提取共用imple" />
+      <item value="提取共用" />
+      <item value="提取gong'yong" />
+      <item value="提取公用" />
+      <item value="提取" />
+      <item value="ti" />
+      <item value="fix" />
+      <item value="使用 moshi 解决 gson 对于 kotlin 的默认值问题" />
+      <item value="使用 moshi 解决 gson 对于 kotlin 的mo'ren'z" />
+      <item value="使用 moshi 解决 gson 对于" />
+      <item value="使用 moshi 解决" />
+      <item value="sh" />
+      <item value="用 moshi 替代 gson" />
+      <item value="用 moshi 替代g" />
+      <item value="用" />
+      <item value="替代" />
+      <item value="Unsupported Operation Exception" />
+      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at path" />
       <item value="interact Mode" />
       <item value="ch" />
       <item value="Returns the name of this enum constant, exactly as declared in its enum declaration." />
@@ -25,37 +58,11 @@
       <item value="Multi" />
       <item value="多层" />
       <item value="Multip" />
-      <item value="Multiple" />
-      <item value="多层&#10;" />
-      <item value="多层嵌套" />
-      <item value="多层qian" />
-      <item value="duo'ceng'jian'tao" />
-      <item value="duo'ceng'jian" />
-      <item value="嵌套" />
-      <item value="qian'd" />
-      <item value="If the next token is a property name that's in options, this consumes it and returns its index. Otherwise this returns -1 and no name is consumed." />
-      <item value="Expected a name but was BEGIN_OBJECT at path .ivw" />
-      <item value="Consumes the next token from the JSON stream and asserts that it is the beginning of a new object." />
-      <item value="Returns the value of the next token, consuming it. The result may be a string, number, boolean, null, map, or list, according to the JSON structure." />
-      <item value="Returns true if the current array or object has another element" />
-      <item value="Returns the type of the next token without consuming it." />
-      <item value="Joshi" />
-      <item value="This means that either the device shut down, logd crashed, or this instance of logcat was unable to read log messages as quickly as they were being produced. If you have enabled significant logging, look into using the -G option to increase log buffer sizes." />
-      <item value="compat&#10;" />
-      <item value=". The following items are queued for execution but none of them can be started:" />
-      <item value="items" />
-      <item value="The following items are queued for execution but none of them can be started: - Build ':':" />
-      <item value="The following items are queued for execution but none of them can be started:" />
-      <item value="constraintlayout" />
-      <item value="ktx" />
-      <item value="wakeup decision drop" />
-      <item value="on Event Result" />
-      <item value="AIUI Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="98" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
