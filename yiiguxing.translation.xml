@@ -8,6 +8,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="interact Mode" />
       <item value="ch" />
       <item value="Returns the name of this enum constant, exactly as declared in its enum declaration." />
       <item value="annotation" />
@@ -53,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
