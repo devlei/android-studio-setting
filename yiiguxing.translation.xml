@@ -8,6 +8,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="Encodes the value which may be a string, number, boolean, null, map, or list. Returns: this writer. See Also: JsonReader.readJsonValue()" />
       <item value="map Layer Json" />
       <item value="一层" />
       <item value="yi" />
@@ -45,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
-        <entry key="ENGLISH" value="66" />
+        <entry key="CHINESE" value="66" />
+        <entry key="ENGLISH" value="67" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
