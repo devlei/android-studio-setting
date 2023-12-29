@@ -4,10 +4,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogWidth" value="580" />
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="deeplink" />
+      <item value="depp" />
+      <item value="de" />
       <item value="页面重组" />
       <item value="页面重组&#10;" />
       <item value="页面充足" />
@@ -55,13 +58,10 @@
       <item value="替代" />
       <item value="Unsupported Operation Exception" />
       <item value="Use JsonReader.setLenient(true) to accept malformed JSON at path" />
-      <item value="interact Mode" />
-      <item value="ch" />
-      <item value="Returns the name of this enum constant, exactly as declared in its enum declaration." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
+        <entry key="CHINESE" value="131" />
         <entry key="ENGLISH" value="131" />
         <entry key="HAWAIIAN" value="1" />
       </map>
