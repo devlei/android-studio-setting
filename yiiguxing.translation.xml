@@ -4,10 +4,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="586" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="Organize dependencies" />
+      <item value="整理依赖&#10;" />
+      <item value="整合依赖" />
       <item value="整合依赖&#10;" />
       <item value="整合" />
       <item value="zh" />
@@ -55,14 +58,11 @@
       <item value="Encodes the value which may be a string, number, boolean, null, map, or list. Returns: this writer. See Also: JsonReader.readJsonValue()" />
       <item value="map Layer Json" />
       <item value="一层" />
-      <item value="yi" />
-      <item value="maps Json" />
-      <item value="multi Map Json" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="120" />
+        <entry key="ENGLISH" value="119" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
