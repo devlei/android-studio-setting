@@ -8,6 +8,9 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="整合依赖&#10;" />
+      <item value="整合" />
+      <item value="zh" />
       <item value="提取共用 dependencies 到 common library" />
       <item value="提取共用 dependencies 到 common libr" />
       <item value="提取共用 dependencies 到 common li'b" />
@@ -55,14 +58,11 @@
       <item value="yi" />
       <item value="maps Json" />
       <item value="multi Map Json" />
-      <item value="Multi" />
-      <item value="多层" />
-      <item value="Multip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="105" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
