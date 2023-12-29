@@ -8,6 +8,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="The graphics preview in the layout editor may not be accurate: - The current rendering only supports APIs up to 33. You may encounter crashes if using with higher APIs. To avoid, you can set a lower API for your previews. (Ignore for this session)" />
       <item value="Organize dependencies" />
       <item value="整理依赖&#10;" />
       <item value="整合依赖" />
@@ -57,11 +58,10 @@
       <item value="Returns the value of the next token, consuming it. The result may be a string, number, boolean, null, map, or list, according to the JSON structure. Throws: JsonDataException – if the next token is not a literal value, if a JSON object has a duplicate key. See Also: JsonWriter.jsonValue(Object)" />
       <item value="Encodes the value which may be a string, number, boolean, null, map, or list. Returns: this writer. See Also: JsonReader.readJsonValue()" />
       <item value="map Layer Json" />
-      <item value="一层" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="120" />
+        <entry key="CHINESE" value="121" />
         <entry key="ENGLISH" value="119" />
         <entry key="HAWAIIAN" value="1" />
       </map>
