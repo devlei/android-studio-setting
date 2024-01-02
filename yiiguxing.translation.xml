@@ -3,11 +3,44 @@
     <option name="lastTrimTime" value="1704165100628" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="断&#10;" />
+      <item value="断" />
+      <item value="hangup" />
+      <item value="reject" />
+      <item value="电话中" />
+      <item value="电话中断" />
+      <item value="电话zhong'duan" />
+      <item value="电话终端" />
+      <item value="电话挂断" />
+      <item value="电话管段" />
+      <item value="电话guan" />
+      <item value="电话" />
+      <item value="电话拒接" />
+      <item value="电话j" />
+      <item value="电话拒绝" />
+      <item value="电话ju" />
+      <item value="电" />
+      <item value="电话gua'duan" />
+      <item value="视频通话" />
+      <item value="reject " />
+      <item value="拒绝" />
+      <item value="ju" />
+      <item value="ju'yu" />
+      <item value="refect" />
+      <item value="re'f" />
+      <item value="refuse" />
+      <item value="ju'jue" />
+      <item value="断开" />
+      <item value="挂断" />
+      <item value="gua'duan" />
+      <item value="管段" />
+      <item value="guan" />
       <item value="CH" />
       <item value="deeplink" />
       <item value="depp" />
@@ -26,43 +59,12 @@
       <item value="整合依赖&#10;" />
       <item value="整合" />
       <item value="zh" />
-      <item value="提取共用 dependencies 到 common library" />
-      <item value="提取共用 dependencies 到 common libr" />
-      <item value="提取共用 dependencies 到 common li'b" />
-      <item value="提取共用 dependencies 到 common" />
-      <item value="提取共用 dependencies 到comm" />
-      <item value="提取共用 dependencies 到com" />
-      <item value="提取共用 dependencies 到" />
-      <item value="提取共用 dependencies" />
-      <item value="提取共用 depend" />
-      <item value="提取共用 depen" />
-      <item value="提取共用 de" />
-      <item value="提取共用 " />
-      <item value="提取共用 implementation" />
-      <item value="提取共用 implementta" />
-      <item value="提取共用 implement" />
-      <item value="提取共用imple" />
-      <item value="提取共用" />
-      <item value="提取gong'yong" />
-      <item value="提取公用" />
-      <item value="提取" />
-      <item value="ti" />
-      <item value="fix" />
-      <item value="使用 moshi 解决 gson 对于 kotlin 的默认值问题" />
-      <item value="使用 moshi 解决 gson 对于 kotlin 的mo'ren'z" />
-      <item value="使用 moshi 解决 gson 对于" />
-      <item value="使用 moshi 解决" />
-      <item value="sh" />
-      <item value="用 moshi 替代 gson" />
-      <item value="用 moshi 替代g" />
-      <item value="用" />
-      <item value="替代" />
-      <item value="Unsupported Operation Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="CEBUANO" value="1" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="240" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
