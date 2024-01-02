@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1703660899411" />
+    <option name="lastTrimTime" value="1704165100628" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="260" />
@@ -8,6 +8,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="CH" />
       <item value="deeplink" />
       <item value="depp" />
       <item value="de" />
@@ -57,11 +58,10 @@
       <item value="用" />
       <item value="替代" />
       <item value="Unsupported Operation Exception" />
-      <item value="Use JsonReader.setLenient(true) to accept malformed JSON at path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="131" />
+        <entry key="CHINESE" value="132" />
         <entry key="ENGLISH" value="131" />
         <entry key="HAWAIIAN" value="1" />
       </map>
