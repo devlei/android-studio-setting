@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="An operation is not implemented." />
       <item value="REQUEST COMPANION RUN IN BACKGROUND" />
       <item value="标识" />
       <item value="表示" />
@@ -58,13 +59,12 @@
       <item value="re'f" />
       <item value="refuse" />
       <item value="ju'jue" />
-      <item value="断开" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="283" />
-        <entry key="ENGLISH" value="284" />
+        <entry key="CHINESE" value="284" />
+        <entry key="ENGLISH" value="285" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
