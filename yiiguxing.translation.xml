@@ -5,10 +5,13 @@
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="260" />
-    <option name="newTranslationDialogWidth" value="574" />
+    <option name="newTranslationDialogWidth" value="572" />
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="android 10后不能后台启动 activity" />
+      <item value="android 10后" />
+      <item value="android 10" />
       <item value="uuid" />
       <item value="uuid&#10;" />
       <item value="标识" />
@@ -56,15 +59,12 @@
       <item value="电话gua'duan" />
       <item value="视频通话" />
       <item value="reject " />
-      <item value="拒绝" />
-      <item value="ju" />
-      <item value="ju'yu" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="297" />
-        <entry key="ENGLISH" value="297" />
+        <entry key="CHINESE" value="298" />
+        <entry key="ENGLISH" value="298" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
