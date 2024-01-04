@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="Requests a buffered channel with the default buffer capacity in the Channel(...) factory function. The default capacity for a channel that suspends on overflow is 64 and can be overridden by setting DEFAULT_BUFFER_PROPERTY_NAME on JVM. For non-suspending channels, a buffer of capacity 1 is used." />
       <item value="nativeleshi Facereg Similarity" />
       <item value="d" />
       <item value="添加使用说明" />
@@ -58,13 +59,12 @@
       <item value="电话guan" />
       <item value="电话" />
       <item value="电话拒接" />
-      <item value="电话j" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="308" />
-        <entry key="ENGLISH" value="309" />
+        <entry key="CHINESE" value="309" />
+        <entry key="ENGLISH" value="310" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
