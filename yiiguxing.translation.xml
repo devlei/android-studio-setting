@@ -9,6 +9,8 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="nativeleshi Facereg Similarity" />
+      <item value="d" />
       <item value="添加使用说明" />
       <item value="添加使用说明&#10;" />
       <item value="Json Qualifier" />
@@ -57,14 +59,12 @@
       <item value="电话" />
       <item value="电话拒接" />
       <item value="电话j" />
-      <item value="电话拒绝" />
-      <item value="电话ju" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="307" />
-        <entry key="ENGLISH" value="308" />
+        <entry key="CHINESE" value="308" />
+        <entry key="ENGLISH" value="309" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
