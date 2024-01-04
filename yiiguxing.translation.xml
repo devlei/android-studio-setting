@@ -9,6 +9,8 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="Json Qualifier" />
+      <item value="Retention" />
       <item value="android 10后不能后台启动 activity" />
       <item value="android 10后" />
       <item value="android 10" />
@@ -57,14 +59,12 @@
       <item value="电话ju" />
       <item value="电" />
       <item value="电话gua'duan" />
-      <item value="视频通话" />
-      <item value="reject " />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="298" />
-        <entry key="ENGLISH" value="298" />
+        <entry key="CHINESE" value="299" />
+        <entry key="ENGLISH" value="300" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
