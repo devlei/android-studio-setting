@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="feature Compare" />
       <item value="If you want to additionally use the CameraX Lifecycle library" />
       <item value="The following line is optional, as the core library is included indirectly by camera-camera2" />
       <item value="Requests a buffered channel with the default buffer capacity in the Channel(...) factory function. The default capacity for a channel that suspends on overflow is 64 and can be overridden by setting DEFAULT_BUFFER_PROPERTY_NAME on JVM. For non-suspending channels, a buffer of capacity 1 is used." />
@@ -58,13 +59,12 @@
       <item value="电话终端" />
       <item value="电话挂断" />
       <item value="电话管段" />
-      <item value="电话guan" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="311" />
-        <entry key="ENGLISH" value="312" />
+        <entry key="CHINESE" value="312" />
+        <entry key="ENGLISH" value="313" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
