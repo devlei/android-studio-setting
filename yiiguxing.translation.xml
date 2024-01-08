@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="Rewind the buffer to zero" />
       <item value="finalize" />
       <item value="init Depth" />
       <item value="features" />
@@ -58,13 +59,12 @@
       <item value="优化依赖管理" />
       <item value="If you want to additionally use the CameraX Lifecycle library" />
       <item value="The following line is optional, as the core library is included indirectly by camera-camera2" />
-      <item value="Requests a buffered channel with the default buffer capacity in the Channel(...) factory function. The default capacity for a channel that suspends on overflow is 64 and can be overridden by setting DEFAULT_BUFFER_PROPERTY_NAME on JVM. For non-suspending channels, a buffer of capacity 1 is used." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="387" />
-        <entry key="ENGLISH" value="388" />
+        <entry key="CHINESE" value="389" />
+        <entry key="ENGLISH" value="390" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="LATIN" value="1" />
       </map>
