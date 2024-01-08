@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1704165100628" />
+    <option name="lastTrimTime" value="1704697449510" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="camera Provider Future" />
       <item value="删除无用 res&#10;" />
       <item value="删除无用" />
       <item value="删除" />
@@ -58,13 +59,12 @@
       <item value="断&#10;" />
       <item value="断" />
       <item value="hangup" />
-      <item value="reject" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
