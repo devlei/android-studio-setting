@@ -9,6 +9,25 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="finalize" />
+      <item value="init Depth" />
+      <item value="features" />
+      <item value="gallery" />
+      <item value="特征库" />
+      <item value="特征ku" />
+      <item value="特征" />
+      <item value="te" />
+      <item value="featur" />
+      <item value="feature" />
+      <item value="fe" />
+      <item value="similarity" />
+      <item value="leshi facereg similarity" />
+      <item value="facereg" />
+      <item value="face Box" />
+      <item value="human" />
+      <item value="hu" />
+      <item value="人体" />
+      <item value="r" />
       <item value="Analysis" />
       <item value="analyze" />
       <item value="person Pointer" />
@@ -20,7 +39,6 @@
       <item value="table face" />
       <item value="You can set the annotation processor argument (room.schemaLocation) to tell Room to export the database schema into a folder. Even though it is not mandatory, it is a good practice to have version history of your schema in your codebase and you should commit the schema files into your version control system (but don't ship them with your app!). When room.schemaLocation is set, Room will check this variable and if it is set to true, the database schema will be exported into the given folder. Value of exportSchema is true by default but you can disable it for databases when you don't want to keep history of versions (like an in-memory only database). Returns: Whether the schema should be exported to the given folder when the room.schemaLocation argument is set. Defaults to true" />
       <item value="You can set the annotation processor argument (room.schemaLocation) to tell Room to export the database schema into a folder. Even though it is not mandatory, it is a good practice to have version history of your schema in your codebase and you should commit the schema files into your version control system (but don't ship them with your app!). When room.schemaLocation is set, Room will check this variable and if it is set to true, the database schema will be exported into the given folder. Value of exportSchema is true by default but you can disable it for databases when you don't want to keep history of versions (like an in-memory only database). Returns: Whether the schema should be exported to the given folder when the room.schemaLocation argument is set. Defaults to true." />
-      <item value="features" />
       <item value="Video Player Activity" />
       <item value="Copy the bitmap's pixels into the specified buffer (allocated by the caller). An exception is thrown if the buffer is not large enough to hold all of the pixels (taking into account the number of bytes per pixel) or if the Buffer subclass is not one of the support types (ByteBuffer, ShortBuffer, IntBuffer)." />
       <item value="face gallery size" />
@@ -41,31 +59,14 @@
       <item value="If you want to additionally use the CameraX Lifecycle library" />
       <item value="The following line is optional, as the core library is included indirectly by camera-camera2" />
       <item value="Requests a buffered channel with the default buffer capacity in the Channel(...) factory function. The default capacity for a channel that suspends on overflow is 64 and can be overridden by setting DEFAULT_BUFFER_PROPERTY_NAME on JVM. For non-suspending channels, a buffer of capacity 1 is used." />
-      <item value="nativeleshi Facereg Similarity" />
-      <item value="d" />
-      <item value="添加使用说明" />
-      <item value="添加使用说明&#10;" />
-      <item value="Json Qualifier" />
-      <item value="Retention" />
-      <item value="android 10后不能后台启动 activity" />
-      <item value="android 10后" />
-      <item value="android 10" />
-      <item value="uuid" />
-      <item value="uuid&#10;" />
-      <item value="标识" />
-      <item value="b" />
-      <item value="mark" />
-      <item value="An operation is not implemented." />
-      <item value="REQUEST COMPANION RUN IN BACKGROUND" />
-      <item value="表示" />
-      <item value="和通话 app 统一" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="360" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="CHINESE" value="387" />
+        <entry key="ENGLISH" value="388" />
         <entry key="HAWAIIAN" value="1" />
+        <entry key="LATIN" value="1" />
       </map>
     </option>
   </component>
