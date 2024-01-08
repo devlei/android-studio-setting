@@ -9,6 +9,10 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="Video Player Activity" />
+      <item value="Copy the bitmap's pixels into the specified buffer (allocated by the caller). An exception is thrown if the buffer is not large enough to hold all of the pixels (taking into account the number of bytes per pixel) or if the Buffer subclass is not one of the support types (ByteBuffer, ShortBuffer, IntBuffer)." />
+      <item value="face gallery size" />
+      <item value="feature Compare" />
       <item value="Only deliver the latest image to the analyzer, dropping images as they arrive." />
       <item value="Sets the backpressure strategy to apply to the image producer to deal with scenarios where images may be produced faster than they can be analyzed. The available values are STRATEGY_BLOCK_PRODUCER and STRATEGY_KEEP_ONLY_LATEST. If not set, the backpressure strategy will default to STRATEGY_KEEP_ONLY_LATEST. Params: strategy – The strategy to use. Returns: The current Builder." />
       <item value="When the specified bound size is unavailable, CameraX falls back to select the closest higher resolution size. If CameraX still cannot find any available resolution, it will fallback to select other lower resolutions." />
@@ -22,7 +26,6 @@
       <item value="Delete duplicate activity" />
       <item value="优化依赖" />
       <item value="优化依赖管理" />
-      <item value="feature Compare" />
       <item value="If you want to additionally use the CameraX Lifecycle library" />
       <item value="The following line is optional, as the core library is included indirectly by camera-camera2" />
       <item value="Requests a buffered channel with the default buffer capacity in the Channel(...) factory function. The default capacity for a channel that suspends on overflow is 64 and can be overridden by setting DEFAULT_BUFFER_PROPERTY_NAME on JVM. For non-suspending channels, a buffer of capacity 1 is used." />
@@ -56,15 +59,12 @@
       <item value="unify" />
       <item value="和 app 统一" />
       <item value="和 app 通义" />
-      <item value="修改" />
-      <item value="x" />
-      <item value="feat: Adjust action name" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="337" />
-        <entry key="ENGLISH" value="338" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="342" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
