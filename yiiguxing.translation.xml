@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="Declares and names the project." />
       <item value="转换器" />
       <item value="转换器&#10;" />
       <item value="Property with 'Array' type in a 'data' class: it is recommended to override 'equals()' and 'hashCode()'" />
@@ -58,13 +59,12 @@
       <item value="和 视频通话 app 通义" />
       <item value="和 shi" />
       <item value="和 是童话 " />
-      <item value="和" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
         <entry key="CHINESE" value="356" />
-        <entry key="ENGLISH" value="356" />
+        <entry key="ENGLISH" value="357" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
