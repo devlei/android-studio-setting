@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="gradle Plugin Portal" />
       <item value="camera Provider Future" />
       <item value="删除无用 res&#10;" />
       <item value="删除无用" />
@@ -58,13 +59,12 @@
       <item value="implementation" />
       <item value="断&#10;" />
       <item value="断" />
-      <item value="hangup" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="330" />
-        <entry key="ENGLISH" value="331" />
+        <entry key="CHINESE" value="331" />
+        <entry key="ENGLISH" value="332" />
         <entry key="HAWAIIAN" value="1" />
       </map>
     </option>
