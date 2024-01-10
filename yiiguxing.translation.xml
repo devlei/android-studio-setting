@@ -9,6 +9,8 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="enqueue" />
+      <item value="concurrent" />
       <item value="Asynchronously send the request and notify callback of its response or if an error occurred talking to the server, creating the request, or processing the response." />
       <item value="Similarity" />
       <item value="p" />
@@ -57,8 +59,6 @@
       <item value="Sets the backpressure strategy to apply to the image producer to deal with scenarios where images may be produced faster than they can be analyzed. The available values are STRATEGY_BLOCK_PRODUCER and STRATEGY_KEEP_ONLY_LATEST. If not set, the backpressure strategy will default to STRATEGY_KEEP_ONLY_LATEST. Params: strategy – The strategy to use. Returns: The current Builder." />
       <item value="When the specified bound size is unavailable, CameraX falls back to select the closest higher resolution size. If CameraX still cannot find any available resolution, it will fallback to select other lower resolutions." />
       <item value="Removes unsuitable sizes and sorts the resolution list in the preferred order. OEMs might make the width or height of the supported output sizes be mod 16 aligned for performance reasons. This means that the device might support 1920x1088 instead of 1920x1080, even though a 16:9 aspect ratio size is 1920x1080. Therefore, the input supported sizes list also contains these aspect ratio sizes when applications specify an AspectRatioStrategy with AspectRatio.RATIO_16_9 and then also specify a ResolutionFilter to apply their own selection logic. Params: supportedSizes – the supported output sizes which have been filtered and sorted according to the other resolution selector settings. rotationDegrees – the rotation degrees to rotate the image to the desired orientation, matching the UseCase’s target rotation setting View size at the front of the returned list. The value is one of the following: 0, 90, 180, or 270. For example, the target rotation set via Preview.Builder.setTargetRotation(int) or Preview.setTargetRotation(int). After rotating the sizes by the rotation degrees, applications can obtain the source image size in the specified target orientation. Then, applications can put the size that best fits to the Preview's Android View size at the front of the returned list. Returns: the desired ordered sizes list for resolution selection. The returned list should only include sizes in the provided input supported sizes list." />
-      <item value="HIGHEST AVAILABLE STRATEGY" />
-      <item value="gradle Plugin Portal" />
     </histories>
     <option name="languageScores">
       <map>
