@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="An object that may hold resources (such as file or socket handles) until it is closed. The close() method of an AutoCloseable object is called automatically when exiting a try-with-resources block for which the object has been declared in the resource specification header. This construction ensures prompt release, avoiding resource exhaustion exceptions and errors that may otherwise occur." />
       <item value="Experimental Get Image" />
       <item value="enqueue" />
       <item value="concurrent" />
@@ -58,7 +59,6 @@
       <item value="feature Compare" />
       <item value="Only deliver the latest image to the analyzer, dropping images as they arrive." />
       <item value="Sets the backpressure strategy to apply to the image producer to deal with scenarios where images may be produced faster than they can be analyzed. The available values are STRATEGY_BLOCK_PRODUCER and STRATEGY_KEEP_ONLY_LATEST. If not set, the backpressure strategy will default to STRATEGY_KEEP_ONLY_LATEST. Params: strategy – The strategy to use. Returns: The current Builder." />
-      <item value="When the specified bound size is unavailable, CameraX falls back to select the closest higher resolution size. If CameraX still cannot find any available resolution, it will fallback to select other lower resolutions." />
     </histories>
     <option name="languageScores">
       <map>
