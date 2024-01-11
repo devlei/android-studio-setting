@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="Returns the number of elements between the current position and the limit. Returns: The number of elements remaining in this buffer" />
       <item value="buffer is inaccessible" />
       <item value="An object that may hold resources (such as file or socket handles) until it is closed. The close() method of an AutoCloseable object is called automatically when exiting a try-with-resources block for which the object has been declared in the resource specification header. This construction ensures prompt release, avoiding resource exhaustion exceptions and errors that may otherwise occur." />
       <item value="Experimental Get Image" />
@@ -58,7 +59,6 @@
       <item value="Copy the bitmap's pixels into the specified buffer (allocated by the caller). An exception is thrown if the buffer is not large enough to hold all of the pixels (taking into account the number of bytes per pixel) or if the Buffer subclass is not one of the support types (ByteBuffer, ShortBuffer, IntBuffer)." />
       <item value="face gallery size" />
       <item value="feature Compare" />
-      <item value="Only deliver the latest image to the analyzer, dropping images as they arrive." />
     </histories>
     <option name="languageScores">
       <map>
