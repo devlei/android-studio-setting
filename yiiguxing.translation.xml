@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="Returns the first element yielding the largest value of the given function or null if there are no elements" />
       <item value="Returns a list containing the results of applying the given transform function to each element in the original collection." />
       <item value="box" />
       <item value="chunked" />
@@ -58,7 +59,6 @@
       <item value="转换器" />
       <item value="转换器&#10;" />
       <item value="Property with 'Array' type in a 'data' class: it is recommended to override 'equals()' and 'hashCode()'" />
-      <item value="table face" />
     </histories>
     <option name="languageScores">
       <map>
