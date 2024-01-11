@@ -6,11 +6,10 @@
         <option value="package:mine tag:[voice-0.0.1]" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:mainactivity" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.coder.sample.face" />
         <option value="package:mine " />
+        <option value="package:com.coder.sample.face" />
         <option value="package:mine" />
         <option value="package:mine tag:mainactivity" />
         <option value="package:com.coder.sample.face tag:m" />
