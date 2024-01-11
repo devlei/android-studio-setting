@@ -9,6 +9,9 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="chunked" />
+      <item value="until" />
+      <item value="Returns the smallest (closest to negative infinity) double value that is greater than or equal to the argument and is equal to a mathematical integer. Special cases:" />
       <item value="Resolution Strategy" />
       <item value="Returns the number of elements between the current position and the limit. Returns: The number of elements remaining in this buffer" />
       <item value="buffer is inaccessible" />
@@ -56,9 +59,6 @@
       <item value="table face" />
       <item value="You can set the annotation processor argument (room.schemaLocation) to tell Room to export the database schema into a folder. Even though it is not mandatory, it is a good practice to have version history of your schema in your codebase and you should commit the schema files into your version control system (but don't ship them with your app!). When room.schemaLocation is set, Room will check this variable and if it is set to true, the database schema will be exported into the given folder. Value of exportSchema is true by default but you can disable it for databases when you don't want to keep history of versions (like an in-memory only database). Returns: Whether the schema should be exported to the given folder when the room.schemaLocation argument is set. Defaults to true" />
       <item value="You can set the annotation processor argument (room.schemaLocation) to tell Room to export the database schema into a folder. Even though it is not mandatory, it is a good practice to have version history of your schema in your codebase and you should commit the schema files into your version control system (but don't ship them with your app!). When room.schemaLocation is set, Room will check this variable and if it is set to true, the database schema will be exported into the given folder. Value of exportSchema is true by default but you can disable it for databases when you don't want to keep history of versions (like an in-memory only database). Returns: Whether the schema should be exported to the given folder when the room.schemaLocation argument is set. Defaults to true." />
-      <item value="Video Player Activity" />
-      <item value="Copy the bitmap's pixels into the specified buffer (allocated by the caller). An exception is thrown if the buffer is not large enough to hold all of the pixels (taking into account the number of bytes per pixel) or if the Buffer subclass is not one of the support types (ByteBuffer, ShortBuffer, IntBuffer)." />
-      <item value="face gallery size" />
     </histories>
     <option name="languageScores">
       <map>
