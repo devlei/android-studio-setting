@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="box" />
       <item value="chunked" />
       <item value="until" />
       <item value="Returns the smallest (closest to negative infinity) double value that is greater than or equal to the argument and is equal to a mathematical integer. Special cases:" />
@@ -58,13 +59,12 @@
       <item value="Property with 'Array' type in a 'data' class: it is recommended to override 'equals()' and 'hashCode()'" />
       <item value="table face" />
       <item value="You can set the annotation processor argument (room.schemaLocation) to tell Room to export the database schema into a folder. Even though it is not mandatory, it is a good practice to have version history of your schema in your codebase and you should commit the schema files into your version control system (but don't ship them with your app!). When room.schemaLocation is set, Room will check this variable and if it is set to true, the database schema will be exported into the given folder. Value of exportSchema is true by default but you can disable it for databases when you don't want to keep history of versions (like an in-memory only database). Returns: Whether the schema should be exported to the given folder when the room.schemaLocation argument is set. Defaults to true" />
-      <item value="You can set the annotation processor argument (room.schemaLocation) to tell Room to export the database schema into a folder. Even though it is not mandatory, it is a good practice to have version history of your schema in your codebase and you should commit the schema files into your version control system (but don't ship them with your app!). When room.schemaLocation is set, Room will check this variable and if it is set to true, the database schema will be exported into the given folder. Value of exportSchema is true by default but you can disable it for databases when you don't want to keep history of versions (like an in-memory only database). Returns: Whether the schema should be exported to the given folder when the room.schemaLocation argument is set. Defaults to true." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
-        <entry key="CHINESE" value="402" />
-        <entry key="ENGLISH" value="403" />
+        <entry key="CHINESE" value="406" />
+        <entry key="ENGLISH" value="406" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="LATIN" value="1" />
       </map>
