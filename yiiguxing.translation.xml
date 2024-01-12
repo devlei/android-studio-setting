@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="inner Radius" />
       <item value="init Variable Id" />
       <item value="RoomBuilder must be initialized" />
       <item value="Returns the first element yielding the largest value of the given function or null if there are no elements" />
@@ -58,7 +59,6 @@
       <item value="person Pointer" />
       <item value="person face pointer" />
       <item value="Declares and names the project." />
-      <item value="转换器" />
     </histories>
     <option name="languageScores">
       <map>
