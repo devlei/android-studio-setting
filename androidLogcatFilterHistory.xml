@@ -6,14 +6,15 @@
         <option value="package:mine tag:[voice-0.0.1]" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:Facial " />
+    <option name="mostRecentlyUsed" value="package:mine onInitView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine onInitView" />
+        <option value="package:mine " />
         <option value="package:mine tag:Facial " />
         <option value="package:mine" />
         <option value="package:mine tag:Facial" />
         <option value="package:mine 人脸特征：" />
-        <option value="package:mine " />
         <option value="package:mine Ro" />
         <option value="package:com.coder.sample.face" />
         <option value="package:mine tag:mainactivity" />
@@ -28,7 +29,6 @@
         <option value="package:mine system.out" />
         <option value="package:mine tag:" />
         <option value="package:mine tag:[[chat-0.0.1]" />
-        <option value="package:mine id=" />
       </list>
     </option>
   </component>
