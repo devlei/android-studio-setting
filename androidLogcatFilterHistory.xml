@@ -6,9 +6,10 @@
         <option value="package:mine tag:[voice-0.0.1]" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:Facial" />
+    <option name="mostRecentlyUsed" value="package:mine width:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine width:" />
         <option value="package:mine tag:Facial" />
         <option value="package:mine onInitView" />
         <option value="package:mine " />
@@ -28,7 +29,6 @@
         <option value="package:mineca" />
         <option value="package:mine system.out" />
         <option value="package:mine tag:" />
-        <option value="package:mine tag:[[chat-0.0.1]" />
       </list>
     </option>
   </component>
