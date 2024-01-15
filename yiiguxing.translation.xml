@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="Voice Event Model" />
       <item value="collect Register State" />
       <item value="Facial Register View Model" />
       <item value="inner Radius" />
@@ -58,7 +59,6 @@
       <item value="r" />
       <item value="Analysis" />
       <item value="analyze" />
-      <item value="person Pointer" />
     </histories>
     <option name="languageScores">
       <map>
