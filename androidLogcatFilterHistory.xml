@@ -6,14 +6,13 @@
         <option value="package:mine tag:[voice-0.0.1]" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine width:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine width:" />
         <option value="package:mine tag:Facial" />
         <option value="package:mine onInitView" />
-        <option value="package:mine " />
         <option value="package:mine tag:Facial " />
         <option value="package:mine 人脸特征：" />
         <option value="package:mine Ro" />
