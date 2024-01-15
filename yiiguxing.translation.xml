@@ -1,6 +1,6 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1704697449510" />
+    <option name="lastTrimTime" value="1705325238789" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="CHANGELOG" />
       <item value="Voice Event Model" />
       <item value="collect Register State" />
       <item value="Facial Register View Model" />
@@ -58,13 +59,12 @@
       <item value="人体" />
       <item value="r" />
       <item value="Analysis" />
-      <item value="analyze" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CEBUANO" value="1" />
         <entry key="CHINESE" value="406" />
-        <entry key="ENGLISH" value="406" />
+        <entry key="ENGLISH" value="407" />
         <entry key="HAWAIIAN" value="1" />
         <entry key="LATIN" value="1" />
       </map>
