@@ -6,8 +6,10 @@
         <option value="package:mine tag:[voice-0.0.1]" />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine CameraXBuilder" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine CameraXBuilder" />
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine imageProxy" />
@@ -27,7 +29,6 @@
         <option value="package:com.coder.sample.face tag:MainActivity" />
         <option value="package:com.coder.sample.face tag:MainActivity " />
         <option value="package:mine analyze" />
-        <option value="package:com.coder.sample.face tag:mainactivity" />
       </list>
     </option>
   </component>
