@@ -6,13 +6,13 @@
         <option value="package:mine tag:[voice-0.0.1]" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine CameraXBuilder" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine CameraXBuilder" />
-        <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine imageProxy" />
+        <option value="package:mine CameraXBuilder" />
+        <option value="package:mine " />
         <option value="package:mine FacialRegisterViewModel" />
         <option value="package:mine FacialRegisterViewModel subscribeAnalyzer" />
         <option value="package:mine width:" />
