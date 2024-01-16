@@ -6,12 +6,13 @@
         <option value="package:mine tag:[voice-0.0.1]" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine FacialRegisterViewModel" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine FacialRegisterViewModel" />
-        <option value="package:mine" />
         <option value="package:mine " />
+        <option value="package:mine" />
+        <option value="package:mine imageProxy" />
+        <option value="package:mine FacialRegisterViewModel" />
+        <option value="package:mine FacialRegisterViewModel subscribeAnalyzer" />
         <option value="package:mine width:" />
         <option value="package:mine tag:Facial" />
         <option value="package:mine onInitView" />
@@ -27,8 +28,6 @@
         <option value="package:com.coder.sample.face tag:MainActivity " />
         <option value="package:mine analyze" />
         <option value="package:com.coder.sample.face tag:mainactivity" />
-        <option value="package:mineca" />
-        <option value="package:mine system.out" />
       </list>
     </option>
   </component>
