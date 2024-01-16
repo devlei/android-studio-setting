@@ -6,9 +6,10 @@
         <option value="package:mine tag:[voice-0.0.1]" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine FacialRegisterViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine FacialRegisterViewModel" />
         <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine width:" />
@@ -28,7 +29,6 @@
         <option value="package:com.coder.sample.face tag:mainactivity" />
         <option value="package:mineca" />
         <option value="package:mine system.out" />
-        <option value="package:mine tag:" />
       </list>
     </option>
   </component>
