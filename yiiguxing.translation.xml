@@ -9,6 +9,7 @@
     <option name="newTranslationDialogX" value="742" />
     <option name="newTranslationDialogY" value="441" />
     <histories>
+      <item value="START STICKY COMPATIBILITY" />
       <item value="CHANGELOG" />
       <item value="Voice Event Model" />
       <item value="collect Register State" />
@@ -58,7 +59,6 @@
       <item value="hu" />
       <item value="人体" />
       <item value="r" />
-      <item value="Analysis" />
     </histories>
     <option name="languageScores">
       <map>
