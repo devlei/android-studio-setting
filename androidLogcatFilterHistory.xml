@@ -6,11 +6,11 @@
         <option value="package:mine tag:[voice-0.0.1]" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:mine ChatViewModel" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
         <option value="package:mine ChatViewModel" />
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine onMicDidReady" />
         <option value="package:mine 西红" />
