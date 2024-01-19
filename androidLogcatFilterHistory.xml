@@ -6,11 +6,11 @@
         <option value="package:mine tag:[voice-0.0.1]" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine setVideoEncoderParam" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine setVideoEncoderParam" />
+        <option value="package:mine " />
         <option value="package:mine set" />
         <option value="package:mine" />
         <option value="package:mine iat" />
