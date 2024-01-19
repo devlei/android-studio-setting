@@ -6,12 +6,14 @@
         <option value="package:mine tag:[voice-0.0.1]" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine setVideoEncoderParam" />
+        <option value="package:mine set" />
         <option value="package:mine" />
         <option value="package:mine iat" />
-        <option value="package:mine " />
         <option value="package:mine ChatViewModel" />
         <option value="package:mine onMicDidReady" />
         <option value="package:mine 西红" />
@@ -27,8 +29,6 @@
         <option value="package:mine 人脸特征：" />
         <option value="package:mine Ro" />
         <option value="package:com.coder.sample.face" />
-        <option value="package:mine tag:mainactivity" />
-        <option value="package:com.coder.sample.face tag:m" />
       </list>
     </option>
   </component>
