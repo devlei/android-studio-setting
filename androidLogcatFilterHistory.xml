@@ -6,11 +6,14 @@
         <option value="package:mine tag:[voice-0.0.1]" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:com.tvbc.mddtv " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
+        <option value="package:com.tvbc.mddtv " />
+        <option value=" package:mine " />
+        <option value="package:com" />
         <option value="package:mine " />
+        <option value="package:mine" />
         <option value="package:mine sn" />
         <option value="package:mine ChatViewModel" />
         <option value="package:mine tag" />
@@ -26,9 +29,6 @@
         <option value="package:mine FacialRegisterViewModel" />
         <option value="package:mine FacialRegisterViewModel subscribeAnalyzer" />
         <option value="package:mine width:" />
-        <option value="package:mine tag:Facial" />
-        <option value="package:mine onInitView" />
-        <option value="package:mine tag:Facial " />
       </list>
     </option>
   </component>
