@@ -6,11 +6,13 @@
         <option value="package:mine tag:[voice-0.0.1]" />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:com.tvbc.mddtv" />
+    <option name="mostRecentlyUsed" value="package:com.letv.tvos.intermodal" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.tvbc.mddtv" />
+        <option value="package:com.letv.tvos.intermodal" />
         <option value="package:mine " />
+        <option value="package:com.tvbc.mddtv package:mine " />
+        <option value="package:com.tvbc.mddtv" />
         <option value="package:com.tvbc.mddtv 联运" />
         <option value="package:com.tvbc.mddtv " />
         <option value=" package:mine " />
@@ -27,8 +29,6 @@
         <option value="package:mine 西红" />
         <option value="package:mine tag:ChatViewModel" />
         <option value="package:mine imageProxy" />
-        <option value="package:mine CameraXBuilder" />
-        <option value="package:mine FacialRegisterViewModel" />
       </list>
     </option>
   </component>
